@@ -3,10 +3,10 @@
   - System
 License: Apache-2.0
 AuthorName: CodeShowOff
-WebSite: https://github.com/CodeShowOff/RecorderX
-SourceCode: https://github.com/CodeShowOff/RecorderX
-IssueTracker: https://github.com/CodeShowOff/RecorderX/issues
-Changelog: https://github.com/CodeShowOff/RecorderX/releases
+WebSite: https://github.com/CodeShowOff/RecorderZ
+SourceCode: https://github.com/CodeShowOff/RecorderZ
+IssueTracker: https://github.com/CodeShowOff/RecorderZ/issues
+Changelog: https://github.com/CodeShowOff/RecorderZ/releases
 
 AutoName: RecorderZ
 Summary: High-performance, privacy-focused screen recorder
@@ -30,7 +30,7 @@ Description: |-
   - Works entirely offline with no internet access or ads.
 
 RepoType: git
-Repo: https://github.com/CodeShowOff/RecorderX.git
+Repo: https://github.com/CodeShowOff/RecorderZ.git
 
 Builds:
   - versionName: 1.0.0
