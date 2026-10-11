@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">ЖАЗУНУ БАШТОО</string>
     <string name="stop_recording">ЖАЗУНУ ТОКТОТУУ</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ЖЕРГЕ САПАР</string>
     <string name="title_recorder">ЖАЗДЫРГЫЧ</string>
-    <string name="saved_in_path">Сакталган: /Movies/RecorderX</string>
+    <string name="saved_in_path">Сакталган: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Башка оюнчулар менен эң туура келет), H.265 (Жогорку эффективдүү кысуу) же AV1 (Кийинки муундун жогорку сапаты).</string>
     <string name="guide_orientation_desc">Жазылган видеонун пропорцияларын Авто, Портрет (вертикалдуу) же Пейзаждык (горизонталдуу) кылып кулпулоо.</string>
     <string name="guide_resolution_desc">NATIVE экраныңыздын так чечилишинде тартат. 4K, 2K, FHD, HD жана SD кулпусун стандарттык өлчөмдөргө тартуу.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Мен түшүнөм (%d)</string>
     <string name="dialog_auto_orientation_button">Мен түшүнөм</string>
     <string name="dialog_overlay_permission_title">Уруксат талап кылынат</string>
-    <string name="dialog_overlay_permission_message">Калкыма контроллердин көбүгүн көрсөтүү үчүн RecorderX башка колдонмолордун үстүнөн көрсөтүүгө уруксат алышы керек. Сураныч, аны кийинки экранда бериңиз.</string>
+    <string name="dialog_overlay_permission_message">Калкыма контроллердин көбүгүн көрсөтүү үчүн RecorderZ башка колдонмолордун үстүнөн көрсөтүүгө уруксат алышы керек. Сураныч, аны кийинки экранда бериңиз.</string>
     <string name="btn_grant">Уруксат берүү</string>
     <string name="btn_cancel">Жокко чыгаруу</string>
     <string name="dialog_av1_software_title">⚠ AV1 программалык коддоо</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Системанын демейки</string>
     <string name="naming_template_helper">Сакталган видеолоруңуздун аталыштарын жекелештирүү үчүн шаблон кутучасына каалаган префиксиңизди териңиз.\nАр бир файл датасы боюнча ирети менен иреттештирилиши үчүн {timestamp} толтургучту кошуңуз.\nЖараксыз символдор автоматтык түрдө өчүрүлөт, эгер бош болсо таза убакыт белгисине ылайыкталат.\nФормат: ssssssssssss. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Түстү өзгөртүү үчүн серпиңиз</string>
-    <string name="onboarding_swipe_description">12 кереметтүү теманын акцент түстөрүнүн ортосунда айлануу үчүн RecorderX аталыш аймагынын каалаган жеринде солго же оңго серпиңиз!</string>
+    <string name="onboarding_swipe_description">12 кереметтүү теманын акцент түстөрүнүн ортосунда айлануу үчүн RecorderZ аталыш аймагынын каалаган жеринде солго же оңго серпиңиз!</string>
     <string name="btn_got_it">түшүндүм</string>
     <string name="camera_front">Фронт</string>
     <string name="camera_back">Артка</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Диктофон кызматы</string>
     <string name="channel_recording_saved">Жаздыруу сакталды</string>
     <string name="notification_saved_title">Жаздыруу сакталды</string>
-    <string name="notification_saved_text">Жаздыруууңузду /Movies/RecorderX ичинде көрүү үчүн таптаңыз</string>
+    <string name="notification_saved_text">Жаздыруууңузду /Movies/RecorderZ ичинде көрүү үчүн таптаңыз</string>
     <string name="notification_action_delete">Жок кылуу</string>
-    <string name="notification_active_title">RecorderX активдүү</string>
-    <string name="notification_paused_title">RecorderX тындырылды</string>
+    <string name="notification_active_title">RecorderZ активдүү</string>
+    <string name="notification_paused_title">RecorderZ тындырылды</string>
     <string name="notification_action_pause">Жаздырууну тындыруу</string>
     <string name="notification_action_resume">Жазууну улантуу</string>
     <string name="notification_action_show">Show</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Экранды тартууга уруксат берилген жок</string>
     <string name="toast_start_recorder_failed">Жазгыч башталбай калды</string>
     <string name="toast_copied_timestamp">{timestamp} алмашуу буферине көчүрүлдү</string>
-    <string name="toast_accessibility_permission_mic">Микрофонду көзөмөлдөө үчүн RecorderX үчүн Атайын мүмкүнчүлүктөр уруксатын иштетиңиз</string>
-    <string name="toast_camera_permission_required">RecorderX ичинде Камерага уруксат бериңиз</string>
-    <string name="toast_accessibility_permission_screenshot">Скриншотторду алуу үчүн RecorderX үчүн Атайын мүмкүнчүлүктөр уруксатын иштетиңиз</string>
+    <string name="toast_accessibility_permission_mic">Микрофонду көзөмөлдөө үчүн RecorderZ үчүн Атайын мүмкүнчүлүктөр уруксатын иштетиңиз</string>
+    <string name="toast_camera_permission_required">RecorderZ ичинде Камерага уруксат бериңиз</string>
+    <string name="toast_accessibility_permission_screenshot">Скриншотторду алуу үчүн RecorderZ үчүн Атайын мүмкүнчүлүктөр уруксатын иштетиңиз</string>
     <string name="toast_recording_deleted">Жаздыруу өчүрүлдү</string>
     <string name="toast_hardware_av1_not_found">AV1 аппараттык камсыздоосу табылган жок. Программанын AV1 режиминде жаздыруу…</string>
     <string name="toast_codec_fallback">%1$s бул жерде эч кандай аппараттык коддогуч жок, анын ордуна %2$s жаздыруу.</string>
     <string name="toast_hardware_overloaded">Аппараттык камсыздоо ашыкча жүктөлгөн. Автоматтык түрдө төмөндөтүү…</string>
-    <string name="toast_screenshot_saved">Скриншот Pictures/RecorderXке сакталды</string>
+    <string name="toast_screenshot_saved">Скриншот Pictures/RecorderZке сакталды</string>
     <string name="accessibility_desc">Видео тартууну үзгүлтүккө учуратпастан, экранды жаздыруу сеанстарында түпнуска системанын скриншотторун иштетүү үчүн гана колдонулат.</string>
     <string name="widget_quick_record_title">Тез жазу</string>
     <string name="widget_control_center_title">Башкаруу борбору</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">रिकॉर्डिंग शुरू करें</string>
     <string name="stop_recording">रिकॉर्डिंग बंद करें</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,7 +62,7 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
@@ -111,7 +111,7 @@
     <string name="channel_recorder_service">रिकॉर्डर सेवा</string>
     <string name="channel_recording_saved">रिकॉर्डिंग सहेजी गई</string>
     <string name="notification_saved_title">रिकॉर्डिंग सहेजी गई</string>
-    <string name="notification_saved_text">/Movies/RecorderX में अपनी रिकॉर्डिंग देखने के लिए टैप करें</string>
+    <string name="notification_saved_text">/Movies/RecorderZ में अपनी रिकॉर्डिंग देखने के लिए टैप करें</string>
     <string name="notification_action_delete">हटाएँ</string>
     <string name="notification_active_title">रिकॉर्डरएक्स सक्रिय है</string>
     <string name="notification_paused_title">रिकॉर्डरएक्स रोक दिया गया है</string>
@@ -137,7 +137,7 @@
     <string name="toast_hardware_av1_not_found">हार्डवेयर AV1 नहीं मिला. सॉफ़्टवेयर AV1 मोड में रिकॉर्डिंग…</string>
     <string name="toast_codec_fallback">%1$s में कोई हार्डवेयर एनकोडर नहीं है, इसके बजाय %2$s में रिकॉर्डिंग की जा रही है।</string>
     <string name="toast_hardware_overloaded">हार्डवेयर अतिभारित. स्वतः-डाउनग्रेडिंग…</string>
-    <string name="toast_screenshot_saved">स्क्रीनशॉट को Pictures/RecorderX में सहेजा गया</string>
+    <string name="toast_screenshot_saved">स्क्रीनशॉट को Pictures/RecorderZ में सहेजा गया</string>
     <string name="accessibility_desc">वीडियो कैप्चर को बाधित किए बिना स्क्रीन रिकॉर्डिंग सत्र के दौरान मूल सिस्टम स्क्रीनशॉट को ट्रिगर करने के लिए पूरी तरह से उपयोग किया जाता है।</string>
     <string name="widget_quick_record_title">त्वरित रिकॉर्ड</string>
     <string name="widget_control_center_title">नियंत्रण केंद्र</string>

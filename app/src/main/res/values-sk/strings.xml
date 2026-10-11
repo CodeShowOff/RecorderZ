@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">SPUSTIŤ NAHRÁVANIE</string>
     <string name="stop_recording">ZASTAVIŤ NAHRÁVANIE</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ŤAHAJTE TU</string>
     <string name="title_recorder">ZÁZNAMNÍK</string>
-    <string name="saved_in_path">Uložené v: /Movies/RecorderX</string>
+    <string name="saved_in_path">Uložené v: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (najkompatibilnejšie s inými prehrávačmi), H.265 (vysoko účinná kompresia) alebo AV1 (vysoká kvalita ďalšej generácie).</string>
     <string name="guide_orientation_desc">Uzamknite pomery strán zaznamenaného videa na Auto, Portrét (vertikálne) alebo Landscape (horizontálne).</string>
     <string name="guide_resolution_desc">NATIVE sníma v presnom rozlíšení vašej obrazovky. 4K, 2K, FHD, HD a SD zachytenie zámku na štandardné rozmery.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Rozumiem (%d)</string>
     <string name="dialog_auto_orientation_button">Rozumiem</string>
     <string name="dialog_overlay_permission_title">Vyžaduje sa povolenie na prekrytie</string>
-    <string name="dialog_overlay_permission_message">Na zobrazenie plávajúcej bubliny ovládača potrebuje RecorderX povolenie na zobrazenie cez iné aplikácie. Udeľte to na ďalšej obrazovke.</string>
+    <string name="dialog_overlay_permission_message">Na zobrazenie plávajúcej bubliny ovládača potrebuje RecorderZ povolenie na zobrazenie cez iné aplikácie. Udeľte to na ďalšej obrazovke.</string>
     <string name="btn_grant">Udeliť</string>
     <string name="btn_cancel">Zrušiť</string>
     <string name="dialog_av1_software_title">⚠ Softvérové kódovanie AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Predvolené nastavenie systému</string>
     <string name="naming_template_helper">Zadajte preferovanú predponu do poľa šablóny, aby ste si prispôsobili svoje uložené názvy videí.\nPridajte zástupný symbol {timestamp}, aby ste zabezpečili, že každý súbor bude usporiadaný postupne podľa dátumu.\nNeplatné znaky sa automaticky odstránia a predvolene sa použije čistá časová pečiatka, ak je prázdna.\nFormát: yyyyMMdd_Hg4071e (260MM)</string>
     <string name="onboarding_swipe_title">🎨 Potiahnutím prefarbíte</string>
-    <string name="onboarding_swipe_description">Potiahnite prstom doľava alebo doprava kdekoľvek cez oblasť názvu RecorderX a prepínajte medzi 12 nádhernými farbami motívu!</string>
+    <string name="onboarding_swipe_description">Potiahnite prstom doľava alebo doprava kdekoľvek cez oblasť názvu RecorderZ a prepínajte medzi 12 nádhernými farbami motívu!</string>
     <string name="btn_got_it">Dobre</string>
     <string name="camera_front">Predné</string>
     <string name="camera_back">Späť</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Služba nahrávania</string>
     <string name="channel_recording_saved">Záznam bol uložený</string>
     <string name="notification_saved_title">Záznam bol uložený</string>
-    <string name="notification_saved_text">Klepnutím zobrazíte záznam v /Movies/RecorderX</string>
+    <string name="notification_saved_text">Klepnutím zobrazíte záznam v /Movies/RecorderZ</string>
     <string name="notification_action_delete">Odstrániť</string>
-    <string name="notification_active_title">RecorderX je aktívny</string>
-    <string name="notification_paused_title">RecorderX je pozastavený</string>
+    <string name="notification_active_title">RecorderZ je aktívny</string>
+    <string name="notification_paused_title">RecorderZ je pozastavený</string>
     <string name="notification_action_pause">Pozastaviť nahrávanie</string>
     <string name="notification_action_resume">Obnoviť nahrávanie</string>
     <string name="notification_action_show">Zobraziť</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Povolenie na snímanie obrazovky bolo zamietnuté</string>
     <string name="toast_start_recorder_failed">Nepodarilo sa spustiť záznamník</string>
     <string name="toast_copied_timestamp">{timestamp} skopírované do schránky</string>
-    <string name="toast_accessibility_permission_mic">Ak chcete ovládať mikrofón, povoľte pre RecorderX povolenie na zjednodušenie ovládania</string>
-    <string name="toast_camera_permission_required">Udeľte povolenie fotoaparátu v aplikácii RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Ak chcete vytvoriť snímky obrazovky, povoľte pre RecorderX povolenie na zjednodušenie ovládania</string>
+    <string name="toast_accessibility_permission_mic">Ak chcete ovládať mikrofón, povoľte pre RecorderZ povolenie na zjednodušenie ovládania</string>
+    <string name="toast_camera_permission_required">Udeľte povolenie fotoaparátu v aplikácii RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Ak chcete vytvoriť snímky obrazovky, povoľte pre RecorderZ povolenie na zjednodušenie ovládania</string>
     <string name="toast_recording_deleted">Záznam bol odstránený</string>
     <string name="toast_hardware_av1_not_found">Hardvér AV1 sa nenašiel. Nahrávanie v softvérovom režime AV1…</string>
     <string name="toast_codec_fallback">%1$s tu nemá žiadny hardvérový kódovač, namiesto toho nahráva v %2$s.</string>
     <string name="toast_hardware_overloaded">Hardvér je preťažený. Automatický prechod na nižšiu verziu…</string>
-    <string name="toast_screenshot_saved">Snímka obrazovky uložená do Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Snímka obrazovky uložená do Pictures/RecorderZ</string>
     <string name="accessibility_desc">Používa sa výlučne na spustenie snímok obrazovky natívneho systému počas relácií nahrávania obrazovky bez prerušenia snímania videa.</string>
     <string name="widget_quick_record_title">Rýchle nahrávanie</string>
     <string name="widget_control_center_title">Ovládacie centrum</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">ÎNCEPE ÎNREGISTRAREA</string>
     <string name="stop_recording">OPREȘTE ÎNREGISTRAREA</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWIPE AICI</string>
     <string name="title_recorder">ÎNREGISTRATOR</string>
-    <string name="saved_in_path">Salvat în: /Filme/RecorderX</string>
+    <string name="saved_in_path">Salvat în: /Filme/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (cel mai compatibil cu alte playere), H.265 (compresie foarte eficientă) sau AV1 (generația următoare de înaltă calitate).</string>
     <string name="guide_orientation_desc">Blocați raporturile de aspect ale videoclipurilor înregistrate la Auto, Portret (vertical) sau Peisaj (orizontal).</string>
     <string name="guide_resolution_desc">NATIVE capturi la rezoluția exactă a ecranului. Captură de blocare 4K, 2K, FHD, HD și SD la dimensiuni standard.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Am înțeles (%d)</string>
     <string name="dialog_auto_orientation_button">Înțeleg</string>
     <string name="dialog_overlay_permission_title">Este necesară permisiunea de suprapunere</string>
-    <string name="dialog_overlay_permission_message">Pentru a afișa balonul plutitor al controlerului, RecorderX are nevoie de permisiunea de a se afișa peste alte aplicații. Vă rugăm să o acordați pe următorul ecran.</string>
+    <string name="dialog_overlay_permission_message">Pentru a afișa balonul plutitor al controlerului, RecorderZ are nevoie de permisiunea de a se afișa peste alte aplicații. Vă rugăm să o acordați pe următorul ecran.</string>
     <string name="btn_grant">Acordă</string>
     <string name="btn_cancel">Anulează</string>
     <string name="dialog_av1_software_title">⚠ Codificare software AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Implicit sistem</string>
     <string name="naming_template_helper">Introduceți prefixul preferat în caseta șablonului pentru a personaliza titlurile videoclipurilor salvate.\nAdăugați substituentul {timestamp} pentru a vă asigura că fiecare fișier este organizat secvențial în funcție de dată.\nCaracterele nevalide sunt eliminate automat, implicit la un marcaj de timp curat dacă este gol.\nFormat: aaaaMMdd_Hmms (e.Hmms. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Glisați pentru a recolora</string>
-    <string name="onboarding_swipe_description">Glisați la stânga sau la dreapta oriunde peste zona de titlu al RecorderX pentru a comuta între 12 culori de accent minunate ale temei!</string>
+    <string name="onboarding_swipe_description">Glisați la stânga sau la dreapta oriunde peste zona de titlu al RecorderZ pentru a comuta între 12 culori de accent minunate ale temei!</string>
     <string name="btn_got_it">Am înțeles</string>
     <string name="camera_front">Față</string>
     <string name="camera_back">Înapoi</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Serviciul de înregistrare</string>
     <string name="channel_recording_saved">Înregistrare salvată</string>
     <string name="notification_saved_title">Înregistrare salvată</string>
-    <string name="notification_saved_text">Atingeți pentru a vizualiza înregistrarea în /Filme/RecorderX</string>
+    <string name="notification_saved_text">Atingeți pentru a vizualiza înregistrarea în /Filme/RecorderZ</string>
     <string name="notification_action_delete">Ștergeți</string>
-    <string name="notification_active_title">RecorderX este activ</string>
-    <string name="notification_paused_title">RecorderX este întrerupt</string>
+    <string name="notification_active_title">RecorderZ este activ</string>
+    <string name="notification_paused_title">RecorderZ este întrerupt</string>
     <string name="notification_action_pause">Întrerupeți înregistrarea</string>
     <string name="notification_action_resume">Reluați înregistrarea</string>
     <string name="notification_action_show">Arată</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Permisiunea de captură de ecran a fost refuzată</string>
     <string name="toast_start_recorder_failed">Nu s-a pornit înregistratorul</string>
     <string name="toast_copied_timestamp">{timestamp} a fost copiat în clipboard</string>
-    <string name="toast_accessibility_permission_mic">Vă rugăm să activați permisiunea de accesibilitate pentru RecorderX pentru a controla microfonul</string>
-    <string name="toast_camera_permission_required">Vă rugăm să acordați permisiunea Camerei în RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Vă rugăm să activați permisiunea de accesibilitate pentru RecorderX pentru a face capturi de ecran</string>
+    <string name="toast_accessibility_permission_mic">Vă rugăm să activați permisiunea de accesibilitate pentru RecorderZ pentru a controla microfonul</string>
+    <string name="toast_camera_permission_required">Vă rugăm să acordați permisiunea Camerei în RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Vă rugăm să activați permisiunea de accesibilitate pentru RecorderZ pentru a face capturi de ecran</string>
     <string name="toast_recording_deleted">Înregistrarea a fost ștearsă</string>
     <string name="toast_hardware_av1_not_found">Hardware AV1 nu a fost găsit. Înregistrare în modul software AV1...</string>
     <string name="toast_codec_fallback">%1$s nu are nici un codificator hardware aici, înregistrând în schimb în %2$s.</string>
     <string name="toast_hardware_overloaded">Hardware supraîncărcat. Degradare automată...</string>
-    <string name="toast_screenshot_saved">Captură de ecran salvată în Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Captură de ecran salvată în Pictures/RecorderZ</string>
     <string name="accessibility_desc">Folosit exclusiv pentru a declanșa capturi de ecran de sistem nativ în timpul sesiunilor de înregistrare a ecranului, fără a întrerupe captura video.</string>
     <string name="widget_quick_record_title">Înregistrare rapidă</string>
     <string name="widget_control_center_title">Centru de control</string>

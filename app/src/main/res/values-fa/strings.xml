@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">شروع ضبط</string>
     <string name="stop_recording">توقف ضبط</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">اینجا را بکشید</string>
     <string name="title_recorder">ضبط</string>
-    <string name="saved_in_path">ذخیره شده در: /Movies/RecorderX</string>
+    <string name="saved_in_path">ذخیره شده در: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (بیشترین سازگار با سایر پخش کننده ها)، H.265 (فشرده سازی بسیار کارآمد) یا AV1 (نسل بعدی با کیفیت بالا).</string>
     <string name="guide_orientation_desc">نسبت‌های تصویر ضبط‌شده را روی خودکار، عمودی (عمودی) یا منظره (افقی) قفل کنید.</string>
     <string name="guide_resolution_desc">NATIVE با وضوح دقیق صفحه نمایش شما عکس می گیرد. ضبط قفل 4K، 2K، FHD، HD و SD در ابعاد استاندارد.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">من می فهمم (%d)</string>
     <string name="dialog_auto_orientation_button">می فهمم</string>
     <string name="dialog_overlay_permission_title">مجوز پوشش مورد نیاز است</string>
-    <string name="dialog_overlay_permission_message">برای نمایش حباب کنترلر شناور، RecorderX برای نمایش روی برنامه های دیگر به مجوز نیاز دارد. لطفاً آن را در صفحه بعدی اعطا کنید.</string>
+    <string name="dialog_overlay_permission_message">برای نمایش حباب کنترلر شناور، RecorderZ برای نمایش روی برنامه های دیگر به مجوز نیاز دارد. لطفاً آن را در صفحه بعدی اعطا کنید.</string>
     <string name="btn_grant">گرانت</string>
     <string name="btn_cancel">لغو کنید</string>
     <string name="dialog_av1_software_title">⚠ رمزگذاری نرم افزار AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">پیش فرض سیستم</string>
     <string name="naming_template_helper">پیشوند دلخواه خود را در کادر الگو تایپ کنید تا عناوین ویدیوی ذخیره شده خود را شخصی کنید.\nجایگاه {timestamp} را اضافه کنید تا مطمئن شوید که همه فایل ها به ترتیب بر اساس تاریخ سازماندهی می شوند.\nکاراکترهای نامعتبر به طور خودکار حذف می شوند و در صورت خالی بودن، به طور پیش فرض یک مهر زمانی تمیز در نظر گرفته می شود.\nقالب: yyyymmdds_H. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 انگشت خود را برای رنگ‌آمیزی مجدد بکشید</string>
-    <string name="onboarding_swipe_description">انگشت خود را به سمت چپ یا راست در هر جایی روی ناحیه عنوان RecorderX بکشید تا بین 12 رنگ برجسته تم زیبا حرکت کنید!</string>
+    <string name="onboarding_swipe_description">انگشت خود را به سمت چپ یا راست در هر جایی روی ناحیه عنوان RecorderZ بکشید تا بین 12 رنگ برجسته تم زیبا حرکت کنید!</string>
     <string name="btn_got_it">متوجه شدم</string>
     <string name="camera_front">جلو</string>
     <string name="camera_back">برگشت</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">خدمات ضبط</string>
     <string name="channel_recording_saved">ضبط ذخیره شد</string>
     <string name="notification_saved_title">ضبط ذخیره شد</string>
-    <string name="notification_saved_text">برای مشاهده ضبط خود در /Movies/RecorderX ضربه بزنید</string>
+    <string name="notification_saved_text">برای مشاهده ضبط خود در /Movies/RecorderZ ضربه بزنید</string>
     <string name="notification_action_delete">حذف کنید</string>
-    <string name="notification_active_title">RecorderX فعال است</string>
-    <string name="notification_paused_title">RecorderX متوقف شده است</string>
+    <string name="notification_active_title">RecorderZ فعال است</string>
+    <string name="notification_paused_title">RecorderZ متوقف شده است</string>
     <string name="notification_action_pause">مکث ضبط</string>
     <string name="notification_action_resume">از سرگیری ضبط</string>
     <string name="notification_action_show">نمایش دهید</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">اجازه ضبط صفحه رد شد</string>
     <string name="toast_start_recorder_failed">ضبط کننده شروع نشد</string>
     <string name="toast_copied_timestamp">{timestamp} در کلیپ بورد کپی شد</string>
-    <string name="toast_accessibility_permission_mic">لطفاً مجوز Accessibility را برای RecorderX برای کنترل میکروفون فعال کنید</string>
-    <string name="toast_camera_permission_required">لطفاً اجازه دوربین را در RecorderX بدهید</string>
-    <string name="toast_accessibility_permission_screenshot">لطفاً مجوز Accessibility را برای RecorderX برای گرفتن اسکرین شات فعال کنید</string>
+    <string name="toast_accessibility_permission_mic">لطفاً مجوز Accessibility را برای RecorderZ برای کنترل میکروفون فعال کنید</string>
+    <string name="toast_camera_permission_required">لطفاً اجازه دوربین را در RecorderZ بدهید</string>
+    <string name="toast_accessibility_permission_screenshot">لطفاً مجوز Accessibility را برای RecorderZ برای گرفتن اسکرین شات فعال کنید</string>
     <string name="toast_recording_deleted">ضبط حذف شد</string>
     <string name="toast_hardware_av1_not_found">سخت افزار AV1 یافت نشد. ضبط در حالت نرم افزار AV1…</string>
     <string name="toast_codec_fallback">%1$s در اینجا رمزگذار سخت افزاری ندارد و در عوض در %2$s ضبط می کند.</string>
     <string name="toast_hardware_overloaded">سخت افزار بیش از حد بارگذاری شده است. کاهش خودکار…</string>
-    <string name="toast_screenshot_saved">اسکرین شات در Pictures/RecorderX ذخیره شد</string>
+    <string name="toast_screenshot_saved">اسکرین شات در Pictures/RecorderZ ذخیره شد</string>
     <string name="accessibility_desc">صرفاً برای فعال کردن اسکرین شات های سیستم بومی در طول جلسات ضبط صفحه بدون وقفه در ضبط ویدیو استفاده می شود.</string>
     <string name="widget_quick_record_title">ضبط سریع</string>
     <string name="widget_control_center_title">مرکز کنترل</string>

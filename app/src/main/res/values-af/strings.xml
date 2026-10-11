@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">BEGIN OPNAME</string>
     <string name="stop_recording">STOP OPNAME</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWIPE HIER</string>
     <string name="title_recorder">OPNEMER</string>
-    <string name="saved_in_path">Gestoor in: /Movies/RecorderX</string>
+    <string name="saved_in_path">Gestoor in: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Mees versoenbaar met ander spelers), H.265 (Hoogs doeltreffende kompressie), of AV1 (Volgende generasie hoë gehalte).</string>
     <string name="guide_orientation_desc">Sluit aangetekende video-aspekverhoudings op Outo, Portret (vertikaal) of Landskap (horisontaal).</string>
     <string name="guide_resolution_desc">NATIVE vang op jou skerm se presiese resolusie. 4K-, 2K-, FHD-, HD- en SD-slotvaslegging tot standaardafmetings.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Ek verstaan (%d)</string>
     <string name="dialog_auto_orientation_button">Ek Verstaan</string>
     <string name="dialog_overlay_permission_title">Oorlegtoestemming vereis</string>
-    <string name="dialog_overlay_permission_message">Om die drywende kontroleerderborrel te vertoon, het RecorderX toestemming nodig om oor ander toepassings te vertoon. Gee dit asseblief op die volgende skerm toe.</string>
+    <string name="dialog_overlay_permission_message">Om die drywende kontroleerderborrel te vertoon, het RecorderZ toestemming nodig om oor ander toepassings te vertoon. Gee dit asseblief op die volgende skerm toe.</string>
     <string name="btn_grant">Toestaan</string>
     <string name="btn_cancel">Kanselleer</string>
     <string name="dialog_av1_software_title">⚠ AV1 Sagteware Enkodering</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Stelsel verstek</string>
     <string name="naming_template_helper">Tik jou voorkeurvoorvoegsel in die sjabloonkassie om jou gestoorde videotitels te personaliseer.\nVoeg die {timestamp}-plekhouer by om te verseker dat elke lêer opeenvolgend volgens datum georganiseer word.\nOngeldige karakters word outomaties gestroop, en word verstek na \'n skoon tydstempel as dit leeg is.\nFormaat: jjjjMMdd_E.Hmms. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Swiep om te herkleur</string>
-    <string name="onboarding_swipe_description">Sleep links of regs enige plek oor die RecorderX-titelarea om tussen 12 pragtige tema-aksentkleure te wissel!</string>
+    <string name="onboarding_swipe_description">Sleep links of regs enige plek oor die RecorderZ-titelarea om tussen 12 pragtige tema-aksentkleure te wissel!</string>
     <string name="btn_got_it">Het dit</string>
     <string name="camera_front">Voorkant</string>
     <string name="camera_back">Terug</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Blokfluitdiens</string>
     <string name="channel_recording_saved">Opname gestoor</string>
     <string name="notification_saved_title">Opname gestoor</string>
-    <string name="notification_saved_text">Tik om jou opname in /Movies/RecorderX te sien</string>
+    <string name="notification_saved_text">Tik om jou opname in /Movies/RecorderZ te sien</string>
     <string name="notification_action_delete">Vee uit</string>
-    <string name="notification_active_title">RecorderX is aktief</string>
-    <string name="notification_paused_title">RecorderX is onderbreek</string>
+    <string name="notification_active_title">RecorderZ is aktief</string>
+    <string name="notification_paused_title">RecorderZ is onderbreek</string>
     <string name="notification_action_pause">Onderbreek opname</string>
     <string name="notification_action_resume">Hervat opname</string>
     <string name="notification_action_show">Wys</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Toestemming vir skermopname is geweier</string>
     <string name="toast_start_recorder_failed">Kon nie opnemer begin nie</string>
     <string name="toast_copied_timestamp">{timestamp} na knipbord gekopieer</string>
-    <string name="toast_accessibility_permission_mic">Aktiveer asseblief Toeganklikheidtoestemming vir RecorderX om mikrofoon te beheer</string>
-    <string name="toast_camera_permission_required">Gee asseblief kameratoestemming in RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Aktiveer asseblief Toeganklikheidtoestemming vir RecorderX om skermkiekies te neem</string>
+    <string name="toast_accessibility_permission_mic">Aktiveer asseblief Toeganklikheidtoestemming vir RecorderZ om mikrofoon te beheer</string>
+    <string name="toast_camera_permission_required">Gee asseblief kameratoestemming in RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Aktiveer asseblief Toeganklikheidtoestemming vir RecorderZ om skermkiekies te neem</string>
     <string name="toast_recording_deleted">Opname is uitgevee</string>
     <string name="toast_hardware_av1_not_found">Hardeware AV1 nie gevind nie. Neem op in Sagteware AV1-modus...</string>
     <string name="toast_codec_fallback">%1$s het geen hardeware-enkodeerder hier nie, neem eerder op in %2$s.</string>
     <string name="toast_hardware_overloaded">Hardeware oorlaai. Outo-afgradeer tans …</string>
-    <string name="toast_screenshot_saved">Skermskoot gestoor na Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Skermskoot gestoor na Pictures/RecorderZ</string>
     <string name="accessibility_desc">Word slegs gebruik om inheemse stelselskermkiekies tydens skermopnamesessies te aktiveer sonder om die video-opname te onderbreek.</string>
     <string name="widget_quick_record_title">Vinnige opname</string>
     <string name="widget_control_center_title">Beheersentrum</string>

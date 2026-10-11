@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">ПОЧНИ СНИМАЊЕ</string>
     <string name="stop_recording">ЗАУСТАВИ СНИМАЊЕ</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,7 +62,7 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->

@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>RecorderX</h1>
+  <h1>RecorderZ</h1>
   <p>A resilient, open-source screen recorder featuring hardware-accelerated encoding, zero telemetry, and automated fallback protection.</p>
   <img src=".github/assets/iconz.png" width="256" height="256" />
   <br>
 
-  <a href="https://github.com/CodeShowOff/RecorderX/raw/main/releases/RecorderX-v1.0.0.apk">
+  <a href="https://github.com/CodeShowOff/RecorderZ/raw/main/releases/RecorderZ-v1.0.0.apk">
     <img src="https://img.shields.io/badge/Download_APK-v1.0.0-3FA9F5?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
   <br><br>
@@ -15,7 +15,7 @@
 </div>
 
 ---
-<h3>RecorderX is an application designed for high-fidelity screen capture.</h3>
+<h3>RecorderZ is an application designed for high-fidelity screen capture.</h3>
 
 
 
@@ -55,12 +55,12 @@
 
 - Video Bitrate: Configurable up to 18 Mbps (CBR/VBR support).
 - Audio Fidelity: Adjustable sample rates from 64kbps to 320kbps.
-- Storage Path: All recordings are stored locally in `/Movies/RecorderX`.
+- Storage Path: All recordings are stored locally in `/Movies/RecorderZ`.
 - Naming Conventions: Support for custom filename templates using date and timestamp variables.
 
 ## Build Requirements
 
-1. Clone: `git clone https://github.com/YourOrg/RecorderX.git`
+1. Clone: `git clone https://github.com/YourOrg/RecorderZ.git`
 2. Environment: Android Studio Koala+, JDK 21.
 3. Target: Minimum SDK 29 (Android 10), Target SDK 34 (Android 14).
 4. Execution: Run `./gradlew assembleRelease` for optimized production binaries.
@@ -79,8 +79,8 @@ adb install -r -d app/build/outputs/apk/release/app-release.apk
 
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge&logo=apache" height="40" alt="Apache 2.0"></a>
 
-This project is a modified version of the original RecorderX application developed by Chinmai H B (snap24).
-You can find the original repository at: [snap24/RecorderX](https://github.com/snap24/RecorderX)
+This project is a modified version of the original RecorderZ application developed by Chinmai H B (snap24).
+You can find the original repository at: [snap24/RecorderZ](https://github.com/snap24/RecorderZ)
 
 It is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
 

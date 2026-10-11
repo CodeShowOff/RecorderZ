@@ -44,7 +44,7 @@ public class WidgetActionActivity extends Activity {
 
     private void openLastRecording() {
         try {
-            File folder = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_MOVIES), "RecorderX");
+            File folder = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_MOVIES), "RecorderZ");
             if (!folder.exists() || folder.listFiles() == null) {
                 Toast.makeText(this, R.string.toast_no_recordings, Toast.LENGTH_SHORT).show();
                 return;

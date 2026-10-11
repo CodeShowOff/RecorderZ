@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">START OPTAGELSE</string>
     <string name="stop_recording">STOP OPTAGELSE</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWIPE HER</string>
     <string name="title_recorder">OPTAGERE</string>
-    <string name="saved_in_path">Gemt i: /Movies/RecorderX</string>
+    <string name="saved_in_path">Gemt i: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (mest kompatibel med andre afspillere), H.265 (højeffektiv komprimering) eller AV1 (Næste generations høj kvalitet).</string>
     <string name="guide_orientation_desc">Lås optaget videoformatforhold til Auto, Portræt (lodret) eller Landskab (vandret).</string>
     <string name="guide_resolution_desc">NATIVE optager med din skærms nøjagtige opløsning. 4K-, 2K-, FHD-, HD- og SD-låsefanger til standardmål.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Jeg forstår (%d)</string>
     <string name="dialog_auto_orientation_button">Jeg forstår</string>
     <string name="dialog_overlay_permission_title">Overlay-tilladelse påkrævet</string>
-    <string name="dialog_overlay_permission_message">For at vise den flydende controller-boble skal RecorderX have tilladelse til at blive vist over andre apps. Giv det venligst på næste skærmbillede.</string>
+    <string name="dialog_overlay_permission_message">For at vise den flydende controller-boble skal RecorderZ have tilladelse til at blive vist over andre apps. Giv det venligst på næste skærmbillede.</string>
     <string name="btn_grant">Giv tilladelse</string>
     <string name="btn_cancel">Annuller</string>
     <string name="dialog_av1_software_title">⚠ AV1 Software Encoding</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Systemstandard</string>
     <string name="naming_template_helper">Indtast dit foretrukne præfiks i skabelonfeltet for at tilpasse dine gemte videotitler.\nTilføj {timestamp}-pladsholderen for at sikre, at hver fil er organiseret sekventielt efter dato.\nUgyldige tegn fjernes automatisk, som standard til et rent tidsstempel, hvis det er tomt.\nFormat: ååååMMdd_e.Hmms. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Stryg for at omfarve</string>
-    <string name="onboarding_swipe_description">Stryg til venstre eller højre hvor som helst over RecorderX-titelområdet for at skifte mellem 12 smukke temaaccentfarver!</string>
+    <string name="onboarding_swipe_description">Stryg til venstre eller højre hvor som helst over RecorderZ-titelområdet for at skifte mellem 12 smukke temaaccentfarver!</string>
     <string name="btn_got_it">Fik det</string>
     <string name="camera_front">Foran</string>
     <string name="camera_back">Tilbage</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Optagerservice</string>
     <string name="channel_recording_saved">Optagelse gemt</string>
     <string name="notification_saved_title">Optagelse gemt</string>
-    <string name="notification_saved_text">Tryk for at se din optagelse i /Movies/RecorderX</string>
+    <string name="notification_saved_text">Tryk for at se din optagelse i /Movies/RecorderZ</string>
     <string name="notification_action_delete">Slet</string>
-    <string name="notification_active_title">RecorderX er aktiv</string>
-    <string name="notification_paused_title">RecorderX er sat på pause</string>
+    <string name="notification_active_title">RecorderZ er aktiv</string>
+    <string name="notification_paused_title">RecorderZ er sat på pause</string>
     <string name="notification_action_pause">Sæt optagelse på pause</string>
     <string name="notification_action_resume">Genoptag optagelse</string>
     <string name="notification_action_show">Vis</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Tilladelse til skærmoptagelse nægtet</string>
     <string name="toast_start_recorder_failed">Optageren kunne ikke startes</string>
     <string name="toast_copied_timestamp">Kopieret {timestamp} til udklipsholder</string>
-    <string name="toast_accessibility_permission_mic">Aktivér venligst tilgængelighedstilladelse for RecorderX til at styre mikrofonen</string>
-    <string name="toast_camera_permission_required">Giv venligst kameratilladelse i RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Aktiver venligst tilgængelighedstilladelse for RecorderX til at tage skærmbilleder</string>
+    <string name="toast_accessibility_permission_mic">Aktivér venligst tilgængelighedstilladelse for RecorderZ til at styre mikrofonen</string>
+    <string name="toast_camera_permission_required">Giv venligst kameratilladelse i RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Aktiver venligst tilgængelighedstilladelse for RecorderZ til at tage skærmbilleder</string>
     <string name="toast_recording_deleted">Optagelse slettet</string>
     <string name="toast_hardware_av1_not_found">Hardware AV1 ikke fundet. Optagelse i Software AV1-tilstand...</string>
     <string name="toast_codec_fallback">%1$s har ingen hardware-encoder her, optager i %2$s i stedet.</string>
     <string name="toast_hardware_overloaded">Hardware overbelastet. Automatisk nedgradering...</string>
-    <string name="toast_screenshot_saved">Skærmbillede gemt i Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Skærmbillede gemt i Pictures/RecorderZ</string>
     <string name="accessibility_desc">Bruges udelukkende til at udløse native system screenshots under skærmoptagelsessessioner uden at afbryde videooptagelsen.</string>
     <string name="widget_quick_record_title">Hurtig optagelse</string>
     <string name="widget_control_center_title">Kontrolcenter</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">စတင် အသံဖမ်းမည်</string>
     <string name="stop_recording">ရပ်တန့်မည်</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ဤနေရာတွင် ပွတ်ဆွဲပါ။</string>
     <string name="title_recorder">မှတ်တမ်းတင်သည်။</string>
-    <string name="saved_in_path">သိမ်းဆည်းထားသည်- /Movies/RecorderX</string>
+    <string name="saved_in_path">သိမ်းဆည်းထားသည်- /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (အခြားပလေယာများနှင့်အတူ လိုက်ဖက်မှုအရှိဆုံး)၊ H.265 (အလွန်ထိရောက်သော ဖိသိပ်မှု) သို့မဟုတ် AV1 (မျိုးဆက်သစ် အရည်အသွေးမြင့်)။</string>
     <string name="guide_orientation_desc">ရိုက်ကူးထားသော ဗီဒီယိုအချိုးအစားများကို အော်တို၊ ပုံတူ (ဒေါင်လိုက်) သို့မဟုတ် ရှုခင်း (အလျားလိုက်) သို့ လော့ခ်ချပါ။</string>
     <string name="guide_resolution_desc">သင့်စခရင်၏ တိကျသော ကြည်လင်ပြတ်သားမှုဖြင့် NATIVE ရိုက်ကူးသည်။ 4K၊ 2K၊ FHD၊ HD နှင့် SD လော့ခ်ရိုက်ခြင်းကို စံအတိုင်းအတာအဖြစ်။</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">နားလည်ပါတယ် (%d)</string>
     <string name="dialog_auto_orientation_button">နားလည်ပါတယ်။</string>
     <string name="dialog_overlay_permission_title">ထပ်ဆင့်ခွင့်ပြုချက် လိုအပ်ပါသည်။</string>
-    <string name="dialog_overlay_permission_message">Floating Controller bubble ကိုပြသရန် RecorderX သည် အခြားအက်ပ်များပေါ်တွင်ပြသရန် ခွင့်ပြုချက်လိုအပ်သည်။ ကျေးဇူးပြု၍ နောက်မျက်နှာပြင်တွင် ၎င်းကိုခွင့်ပြုပါ။</string>
+    <string name="dialog_overlay_permission_message">Floating Controller bubble ကိုပြသရန် RecorderZ သည် အခြားအက်ပ်များပေါ်တွင်ပြသရန် ခွင့်ပြုချက်လိုအပ်သည်။ ကျေးဇူးပြု၍ နောက်မျက်နှာပြင်တွင် ၎င်းကိုခွင့်ပြုပါ။</string>
     <string name="btn_grant">ပြုသည်။</string>
     <string name="btn_cancel">မလုပ်တော့</string>
     <string name="dialog_av1_software_title">⚠ AV1 ဆော့ဖ်ဝဲလ် ကုဒ်လုပ်ခြင်း။</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">စနစ် ပုံသေ</string>
     <string name="naming_template_helper">သင်သိမ်းဆည်းထားသော ဗီဒီယိုခေါင်းစဉ်များကို စိတ်ကြိုက်ပြင်ဆင်ရန် နမူနာအကွက်တွင် သင်နှစ်သက်သော ရှေ့တန်းကို ရိုက်ထည့်ပါ။\nဖိုင်တိုင်းကို ရက်စွဲအလိုက် စီစဥ်ထားကြောင်း သေချာစေရန် {timestamp} နေရာကို ထည့်ပါ။\nမမှန်ကန်သော စာလုံးများကို အလိုအလျောက် ဖယ်ထုတ်ပြီး ဗလာဖြစ်နေပါက သန့်ရှင်းသော အချိန်တံဆိပ်အဖြစ် ပုံသေသတ်မှတ်ထားသည်။\nဖော်မတ်- yyyyMMdd_Hmms ( 20260712_143000)။</string>
     <string name="onboarding_swipe_title">🎨 အရောင်ပြန်ပြောင်းရန် ပွတ်ဆွဲပါ။</string>
-    <string name="onboarding_swipe_description">RecorderX ခေါင်းစဉ်ဧရိယာပေါ်မှ ဘယ် သို့မဟုတ် ညာသို့ ပွတ်ဆွဲပြီး လှပသော အပြင်အဆင် လေယူလေသိမ်းအရောင် 12 ခုကြားတွင် လည်ပတ်ပါ။</string>
+    <string name="onboarding_swipe_description">RecorderZ ခေါင်းစဉ်ဧရိယာပေါ်မှ ဘယ် သို့မဟုတ် ညာသို့ ပွတ်ဆွဲပြီး လှပသော အပြင်အဆင် လေယူလေသိမ်းအရောင် 12 ခုကြားတွင် လည်ပတ်ပါ။</string>
     <string name="btn_got_it">ရပြီ။</string>
     <string name="camera_front">ရှေ့</string>
     <string name="camera_back">ကျော</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">အသံဖမ်းဝန်ဆောင်မှု</string>
     <string name="channel_recording_saved">မှတ်တမ်းတင် သိမ်းဆည်းပြီးပါပြီ။</string>
     <string name="notification_saved_title">မှတ်တမ်းတင် သိမ်းဆည်းပြီးပါပြီ။</string>
-    <string name="notification_saved_text">/Movies/RecorderX တွင် သင်၏ အသံသွင်းမှုကို ကြည့်ရှုရန် တို့ပါ။</string>
+    <string name="notification_saved_text">/Movies/RecorderZ တွင် သင်၏ အသံသွင်းမှုကို ကြည့်ရှုရန် တို့ပါ။</string>
     <string name="notification_action_delete">ဖျက်ပါ။</string>
-    <string name="notification_active_title">RecorderX သည် အသက်ဝင်ပါသည်။</string>
-    <string name="notification_paused_title">RecorderX ကို ခေတ္တရပ်ထားသည်။</string>
+    <string name="notification_active_title">RecorderZ သည် အသက်ဝင်ပါသည်။</string>
+    <string name="notification_paused_title">RecorderZ ကို ခေတ္တရပ်ထားသည်။</string>
     <string name="notification_action_pause">ရိုက်ကူးခြင်းကို ခဏရပ်ပါ။</string>
     <string name="notification_action_resume">မှတ်တမ်းတင်ခြင်းကို ပြန်လည်စတင်ပါ။</string>
     <string name="notification_action_show">ရှိုး</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">မျက်နှာပြင်ရိုက်ကူးခွင့်ကို ငြင်းဆိုထားသည်။</string>
     <string name="toast_start_recorder_failed">အသံဖမ်းစက်ကို စတင်၍မရပါ။</string>
     <string name="toast_copied_timestamp">{timestamp} ကို ကလစ်ဘုတ်သို့ ကူးယူထားသည်။</string>
-    <string name="toast_accessibility_permission_mic">မိုက်ကို ထိန်းချုပ်ရန် RecorderX အတွက် Accessibility ခွင့်ပြုချက်ကို ဖွင့်ပါ။</string>
-    <string name="toast_camera_permission_required">RecorderX တွင် ကင်မရာခွင့်ပြုချက်ပေးပါ။</string>
-    <string name="toast_accessibility_permission_screenshot">ဖန်သားပြင်ဓာတ်ပုံများရိုက်ရန် RecorderX အတွက် Accessibility ခွင့်ပြုချက်ကို ဖွင့်ပါ။</string>
+    <string name="toast_accessibility_permission_mic">မိုက်ကို ထိန်းချုပ်ရန် RecorderZ အတွက် Accessibility ခွင့်ပြုချက်ကို ဖွင့်ပါ။</string>
+    <string name="toast_camera_permission_required">RecorderZ တွင် ကင်မရာခွင့်ပြုချက်ပေးပါ။</string>
+    <string name="toast_accessibility_permission_screenshot">ဖန်သားပြင်ဓာတ်ပုံများရိုက်ရန် RecorderZ အတွက် Accessibility ခွင့်ပြုချက်ကို ဖွင့်ပါ။</string>
     <string name="toast_recording_deleted">အသံသွင်းခြင်းကို ဖျက်လိုက်ပါပြီ။</string>
     <string name="toast_hardware_av1_not_found">ဟာ့ဒ်ဝဲ AV1 ကို ရှာမတွေ့ပါ။ ဆော့ဖ်ဝဲလ် AV1 မုဒ်တွင် ရိုက်ကူးနေသည်...</string>
     <string name="toast_codec_fallback">%1$s တွင် ဤနေရာတွင် ဟာ့ဒ်ဝဲကုဒ်နံပါတ်မရှိပါ၊ ၎င်းအစား %2$s တွင် အသံဖမ်းပါသည်။</string>
     <string name="toast_hardware_overloaded">ဟာ့ဒ်ဝဲများ ဝန်ပိနေပါသည်။ အလိုအလျောက် အဆင့်နှိမ့်နေသည်…</string>
-    <string name="toast_screenshot_saved">ဖန်သားပြင်ဓာတ်ပုံကို Pictures/RecorderX တွင် သိမ်းဆည်းထားသည်။</string>
+    <string name="toast_screenshot_saved">ဖန်သားပြင်ဓာတ်ပုံကို Pictures/RecorderZ တွင် သိမ်းဆည်းထားသည်။</string>
     <string name="accessibility_desc">ဗီဒီယိုရိုက်ကူးမှုကို အနှောင့်အယှက်မပေးဘဲ ဖန်သားပြင်ရိုက်ကူးခြင်းအစည်းအဝေးများအတွင်း မူရင်းစနစ်စခရင်ပုံများကို စတင်ရန် တစ်ခုတည်းကိုသာ အသုံးပြုသည်။</string>
     <string name="widget_quick_record_title">အမြန်ဖမ်းယူမှု</string>
     <string name="widget_control_center_title">ထိန်းချုပ်ရေးဗဟို</string>

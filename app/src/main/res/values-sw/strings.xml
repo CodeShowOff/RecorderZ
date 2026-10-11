@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">ANZA KUREKODI</string>
     <string name="stop_recording">SIMAMISHA KUREKODI</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWEPESHA HAPA</string>
     <string name="title_recorder">KINASA SAUTI NA VIDEO</string>
-    <string name="saved_in_path">Imehifadhiwa katika: /Movies/RecorderX</string>
+    <string name="saved_in_path">Imehifadhiwa katika: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Inaoana zaidi na wachezaji wengine), H.265 (Mfinyazo unaofaa sana), au AV1 (Ubora wa juu wa kizazi kijacho).</string>
     <string name="guide_orientation_desc">Funga uwiano wa vipengele vya video vilivyorekodiwa kwa Otomatiki, Wima (wima), au Mlalo (mlalo).</string>
     <string name="guide_resolution_desc">NATIVE hunasa katika mwonekano kamili wa skrini yako. 4K, 2K, FHD, HD, na kunasa kufuli ya SD kwa vipimo vya kawaida.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Naelewa (%d)</string>
     <string name="dialog_auto_orientation_button">Naelewa</string>
     <string name="dialog_overlay_permission_title">Ruhusa ya Uwekeleaji Inahitajika</string>
-    <string name="dialog_overlay_permission_message">Ili kuonyesha kiputo cha kidhibiti kinachoelea, RecorderX inahitaji ruhusa ya kuonyesha juu ya programu zingine. Tafadhali iruhusu kwenye skrini inayofuata.</string>
+    <string name="dialog_overlay_permission_message">Ili kuonyesha kiputo cha kidhibiti kinachoelea, RecorderZ inahitaji ruhusa ya kuonyesha juu ya programu zingine. Tafadhali iruhusu kwenye skrini inayofuata.</string>
     <string name="btn_grant">Ruhusu</string>
     <string name="btn_cancel">Ghairi</string>
     <string name="dialog_av1_software_title">⚠ Usimbaji wa Programu wa AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Chaguomsingi ya Mfumo</string>
     <string name="naming_template_helper">Andika kiambishi awali unachopendelea katika kisanduku cha kiolezo ili kubinafsisha mada zako za video ulizohifadhi.\nOngeza kishikilia nafasi cha {timestamp} ili kuhakikisha kila faili imepangwa kwa mpangilio kulingana na tarehe.\nHerufi zisizo sahihi huondolewa kiotomatiki, ikibadilishwa kuwa muhuri safi wa saa ikiwa tupu.\nMuundo: yyyyMMdd_Hmms. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Telezesha kidole ili upate Rangi upya</string>
-    <string name="onboarding_swipe_description">Telezesha kidole kushoto au kulia popote juu ya eneo la kichwa la RecorderX ili kuzungusha kati ya rangi 12 za lafudhi ya mandhari!</string>
+    <string name="onboarding_swipe_description">Telezesha kidole kushoto au kulia popote juu ya eneo la kichwa la RecorderZ ili kuzungusha kati ya rangi 12 za lafudhi ya mandhari!</string>
     <string name="btn_got_it">Nimeipata</string>
     <string name="camera_front">Mbele</string>
     <string name="camera_back">Nyuma</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Huduma ya Kinasa sauti</string>
     <string name="channel_recording_saved">Rekodi Imehifadhiwa</string>
     <string name="notification_saved_title">Rekodi Imehifadhiwa</string>
-    <string name="notification_saved_text">Gusa ili kutazama rekodi yako katika /Movies/RecorderX</string>
+    <string name="notification_saved_text">Gusa ili kutazama rekodi yako katika /Movies/RecorderZ</string>
     <string name="notification_action_delete">Futa</string>
-    <string name="notification_active_title">RecorderX inatumika</string>
-    <string name="notification_paused_title">RecorderX imesitishwa</string>
+    <string name="notification_active_title">RecorderZ inatumika</string>
+    <string name="notification_paused_title">RecorderZ imesitishwa</string>
     <string name="notification_action_pause">Sitisha Kurekodi</string>
     <string name="notification_action_resume">Endelea Kurekodi</string>
     <string name="notification_action_show">Onyesha</string>
@@ -130,9 +130,9 @@
     <string name="toast_screen_capture_denied">Ruhusa ya kupiga picha skrini imekataliwa</string>
     <string name="toast_start_recorder_failed">Imeshindwa kuanzisha kinasa sauti</string>
     <string name="toast_copied_timestamp">Imenakiliwa {timestamp} kwenye ubao wa kunakili</string>
-    <string name="toast_accessibility_permission_mic">Tafadhali washa ruhusa ya Ufikivu kwa RecorderX ili kudhibiti maikrofoni</string>
-    <string name="toast_camera_permission_required">Tafadhali toa ruhusa ya Kamera katika RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Tafadhali wezesha ruhusa ya Ufikivu kwa RecorderX kupiga picha za skrini</string>
+    <string name="toast_accessibility_permission_mic">Tafadhali washa ruhusa ya Ufikivu kwa RecorderZ ili kudhibiti maikrofoni</string>
+    <string name="toast_camera_permission_required">Tafadhali toa ruhusa ya Kamera katika RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Tafadhali wezesha ruhusa ya Ufikivu kwa RecorderZ kupiga picha za skrini</string>
     <string name="toast_recording_deleted">Rekodi imefutwa</string>
     <string name="toast_hardware_av1_not_found">Maunzi AV1 hayajapatikana. Inarekodi katika hali ya Programu ya AV1...</string>
     <string name="toast_codec_fallback">%1$s haina kisimbaji maunzi hapa, inarekodi katika %2$s badala yake.</string>

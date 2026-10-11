@@ -631,7 +631,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void startRecording(int resultCode, Intent data) {
-        android.util.Log.d("RecorderX_Main", "startRecording: ResultCode=" + resultCode + ", Data=" + data);
+        android.util.Log.d("RecorderZ_Main", "startRecording: ResultCode=" + resultCode + ", Data=" + data);
         
         RecorderService.setProjectionData(resultCode, data);
 
@@ -645,7 +645,7 @@ public class MainActivity extends AppCompatActivity {
             btnRecord.setText(R.string.stop_recording);
             moveTaskToBack(true);
         } catch (Exception e) {
-            android.util.Log.e("RecorderX_Main", "Failed to start service", e);
+            android.util.Log.e("RecorderZ_Main", "Failed to start service", e);
             Toast.makeText(this, R.string.toast_start_recorder_failed, Toast.LENGTH_SHORT).show();
         }
     }

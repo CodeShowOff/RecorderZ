@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">રેકોર્ડિંગ શરૂ કરો</string>
     <string name="stop_recording">રેકોર્ડિંગ બંધ કરો</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">અહીં સ્વાઇપ કરો</string>
     <string name="title_recorder">રેકોર્ડર</string>
-    <string name="saved_in_path">આમાં સાચવેલ: /Movies/RecorderX</string>
+    <string name="saved_in_path">આમાં સાચવેલ: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (અન્ય ખેલાડીઓ સાથે સૌથી વધુ સુસંગત), H.265 (અત્યંત કાર્યક્ષમ કમ્પ્રેશન), અથવા AV1 (આગામી પેઢીની ઉચ્ચ ગુણવત્તા).</string>
     <string name="guide_orientation_desc">રેકોર્ડ કરેલ વિડિયો સાપેક્ષ ગુણોત્તરને સ્વતઃ, પોટ્રેટ (ઊભી) અથવા લેન્ડસ્કેપ (આડી) પર લૉક કરો.</string>
     <string name="guide_resolution_desc">તમારી સ્ક્રીનના ચોક્કસ રિઝોલ્યુશન પર મૂળ કેપ્ચર. 4K, 2K, FHD, HD અને SD લૉકને માનક પરિમાણો પર કેપ્ચર કરો.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">હું સમજું છું (%d)</string>
     <string name="dialog_auto_orientation_button">આઈ અન્ડરસ્ટેન્ડ</string>
     <string name="dialog_overlay_permission_title">ઓવરલે પરવાનગી જરૂરી છે</string>
-    <string name="dialog_overlay_permission_message">ફ્લોટિંગ કંટ્રોલર બબલ પ્રદર્શિત કરવા માટે, RecorderX ને અન્ય એપ્લિકેશનો પર પ્રદર્શિત કરવા માટે પરવાનગીની જરૂર છે. કૃપા કરીને તેને આગલી સ્ક્રીન પર આપો.</string>
+    <string name="dialog_overlay_permission_message">ફ્લોટિંગ કંટ્રોલર બબલ પ્રદર્શિત કરવા માટે, RecorderZ ને અન્ય એપ્લિકેશનો પર પ્રદર્શિત કરવા માટે પરવાનગીની જરૂર છે. કૃપા કરીને તેને આગલી સ્ક્રીન પર આપો.</string>
     <string name="btn_grant">ગ્રાન્ટ</string>
     <string name="btn_cancel">રદ કરો</string>
     <string name="dialog_av1_software_title">⚠ AV1 સૉફ્ટવેર એન્કોડિંગ</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">સિસ્ટમ ડિફોલ્ટ</string>
     <string name="naming_template_helper">તમારા સાચવેલા વિડિયો શીર્ષકોને વ્યક્તિગત કરવા માટે ટેમ્પલેટ બોક્સમાં તમારો પસંદીદા ઉપસર્ગ ટાઈપ કરો.\nદરેક ફાઈલ તારીખ પ્રમાણે ક્રમિક રીતે ગોઠવાઈ છે તેની ખાતરી કરવા માટે {timestamp} પ્લેસહોલ્ડર ઉમેરો.\nઅમાન્ય અક્ષરો આપમેળે છીનવાઈ જાય છે, જો ખાલી હોય તો ક્લીન ટાઈમસ્ટેમ્પ પર ડિફોલ્ટ થાય છે.\nFmmmmat 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 ફરીથી રંગ કરવા માટે સ્વાઇપ કરો</string>
-    <string name="onboarding_swipe_description">12 ખૂબસૂરત થીમ એક્સેન્ટ રંગો વચ્ચે ચક્ર કરવા માટે RecorderX શીર્ષક વિસ્તાર પર ગમે ત્યાં ડાબે અથવા જમણે સ્વાઇપ કરો!</string>
+    <string name="onboarding_swipe_description">12 ખૂબસૂરત થીમ એક્સેન્ટ રંગો વચ્ચે ચક્ર કરવા માટે RecorderZ શીર્ષક વિસ્તાર પર ગમે ત્યાં ડાબે અથવા જમણે સ્વાઇપ કરો!</string>
     <string name="btn_got_it">સમજાયું</string>
     <string name="camera_front">આગળ</string>
     <string name="camera_back">પાછળ</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">રેકોર્ડર સેવા</string>
     <string name="channel_recording_saved">રેકોર્ડિંગ સાચવ્યું</string>
     <string name="notification_saved_title">રેકોર્ડિંગ સાચવ્યું</string>
-    <string name="notification_saved_text">/Movies/RecorderX માં તમારું રેકોર્ડિંગ જોવા માટે ટેપ કરો</string>
+    <string name="notification_saved_text">/Movies/RecorderZ માં તમારું રેકોર્ડિંગ જોવા માટે ટેપ કરો</string>
     <string name="notification_action_delete">કાઢી નાખો</string>
-    <string name="notification_active_title">RecorderX સક્રિય છે</string>
-    <string name="notification_paused_title">RecorderX થોભાવેલ છે</string>
+    <string name="notification_active_title">RecorderZ સક્રિય છે</string>
+    <string name="notification_paused_title">RecorderZ થોભાવેલ છે</string>
     <string name="notification_action_pause">રેકોર્ડિંગ થોભાવો</string>
     <string name="notification_action_resume">રેકોર્ડિંગ ફરી શરૂ કરો</string>
     <string name="notification_action_show">બતાવો</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">સ્ક્રીન કેપ્ચર પરવાનગી નકારી</string>
     <string name="toast_start_recorder_failed">રેકોર્ડર શરૂ કરવામાં નિષ્ફળ</string>
     <string name="toast_copied_timestamp">{timestamp} ક્લિપબોર્ડ પર કૉપિ કર્યું</string>
-    <string name="toast_accessibility_permission_mic">માઇકને નિયંત્રિત કરવા માટે કૃપા કરીને RecorderX માટે ઍક્સેસિબિલિટી પરવાનગી સક્ષમ કરો</string>
-    <string name="toast_camera_permission_required">કૃપા કરીને RecorderX માં કેમેરાની પરવાનગી આપો</string>
-    <string name="toast_accessibility_permission_screenshot">કૃપા કરીને સ્ક્રીનશૉટ્સ લેવા માટે RecorderX માટે ઍક્સેસિબિલિટી પરવાનગી ચાલુ કરો</string>
+    <string name="toast_accessibility_permission_mic">માઇકને નિયંત્રિત કરવા માટે કૃપા કરીને RecorderZ માટે ઍક્સેસિબિલિટી પરવાનગી સક્ષમ કરો</string>
+    <string name="toast_camera_permission_required">કૃપા કરીને RecorderZ માં કેમેરાની પરવાનગી આપો</string>
+    <string name="toast_accessibility_permission_screenshot">કૃપા કરીને સ્ક્રીનશૉટ્સ લેવા માટે RecorderZ માટે ઍક્સેસિબિલિટી પરવાનગી ચાલુ કરો</string>
     <string name="toast_recording_deleted">રેકોર્ડિંગ કાઢી નાખ્યું</string>
     <string name="toast_hardware_av1_not_found">હાર્ડવેર AV1 મળ્યું નથી. સૉફ્ટવેર AV1 મોડમાં રેકોર્ડિંગ...</string>
     <string name="toast_codec_fallback">%1$s અહીં કોઈ હાર્ડવેર એન્કોડર નથી, તેના બદલે %2$s માં રેકોર્ડિંગ.</string>
     <string name="toast_hardware_overloaded">હાર્ડવેર ઓવરલોડ. સ્વતઃ-ડાઉનગ્રેડિંગ...</string>
-    <string name="toast_screenshot_saved">સ્ક્રીનશૉટ Pictures/RecorderX પર સાચવ્યો</string>
+    <string name="toast_screenshot_saved">સ્ક્રીનશૉટ Pictures/RecorderZ પર સાચવ્યો</string>
     <string name="accessibility_desc">વિડિયો કેપ્ચરમાં વિક્ષેપ પાડ્યા વિના ફક્ત સ્ક્રીન રેકોર્ડિંગ સત્રો દરમિયાન મૂળ સિસ્ટમ સ્ક્રીનશૉટ્સને ટ્રિગર કરવા માટે વપરાય છે.</string>
     <string name="widget_quick_record_title">ઝડપી રેકોર્ડ</string>
     <string name="widget_control_center_title">નિયંત્રણ કેન્દ્ર</string>

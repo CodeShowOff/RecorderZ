@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">སྒྲ་ཕབ་འགོ་བརྩམས།</string>
     <string name="stop_recording">སྒྲ་ཕབ་མཚམས་འཇོག</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,7 +62,7 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">ངས་ཧ་གོ་སོང་(%d)</string>
     <string name="dialog_auto_orientation_button">ངས་ཧ་གོ་སོང</string>
     <string name="dialog_overlay_permission_title">བཀབ་ཆོག་པའི་ཆོག་མཆན་དགོས།</string>
-    <string name="dialog_overlay_permission_message">འཕྱོ་བའི་ཚོད་འཛིན་ཆས་ཀྱི་ཕྱེ་མ་དེ་བཀྲམ་སྟོན་བྱེད་པར་RecorderXལ་མཉེན་ཆས་གཞན་པའི་སྟེང་བཀྲམ་སྟོན་བྱེད་པའི་ཆོག་མཆན་དགོས། གློག་བརྙན་རྗེས་མའི་སྟེང་དུ་ཆོག་མཆན་གནང་རོགས།</string>
+    <string name="dialog_overlay_permission_message">འཕྱོ་བའི་ཚོད་འཛིན་ཆས་ཀྱི་ཕྱེ་མ་དེ་བཀྲམ་སྟོན་བྱེད་པར་RecorderZལ་མཉེན་ཆས་གཞན་པའི་སྟེང་བཀྲམ་སྟོན་བྱེད་པའི་ཆོག་མཆན་དགོས། གློག་བརྙན་རྗེས་མའི་སྟེང་དུ་ཆོག་མཆན་གནང་རོགས།</string>
     <string name="btn_grant">སྤྲོད་པ</string>
     <string name="btn_cancel">འདོར་བ</string>
     <string name="dialog_av1_software_title">⚠ AV1མཉེན་ཆས་ཨང་རྟགས་བཟོ་བ།</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">སྒྲ་ཕབ་ཞབས་ཞུ།</string>
     <string name="channel_recording_saved">སྒྲ་ཕབ་ཉར་ཚགས་བྱས།</string>
     <string name="notification_saved_title">སྒྲ་ཕབ་ཉར་ཚགས་བྱས།</string>
-    <string name="notification_saved_text">/Movies/RecorderX ནང་སྒྲ་ཕབ་བལྟ་བར་རྡེབ་དགོས།</string>
+    <string name="notification_saved_text">/Movies/RecorderZ ནང་སྒྲ་ཕབ་བལྟ་བར་རྡེབ་དགོས།</string>
     <string name="notification_action_delete">བསུབ་པ།</string>
-    <string name="notification_active_title">RecorderX སྤྱོད་བཞིན་པ།</string>
-    <string name="notification_paused_title">RecorderX མཚམས་འཇོག་བྱས།</string>
+    <string name="notification_active_title">RecorderZ སྤྱོད་བཞིན་པ།</string>
+    <string name="notification_paused_title">RecorderZ མཚམས་འཇོག་བྱས།</string>
     <string name="notification_action_pause">སྒྲ་ཕབ་མཚམས་འཇོག</string>
     <string name="notification_action_resume">སྒྲ་ཕབ་མུ་མཐུད།</string>
     <string name="notification_action_show">མངོན་སྟོན</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">གསལ་ཤེལ་འཛིན་བཟུང་ཆོག་མཆན་མ་ཐོབ།</string>
     <string name="toast_start_recorder_failed">སྒྲ་ཕབ་འགོ་འཛུགས་མ་ཐུབ།</string>
     <string name="toast_copied_timestamp">{timestamp} པང་ལེབ་སྟེང་འདྲ་བཤུས་བྱས།</string>
-    <string name="toast_accessibility_permission_mic">RecorderX ཡིས་མིང་སྐད་ཚོད་འཛིན་བྱེད་པར་སྤྱོད་བདེའི་ཆོག་མཆན་སྤྲོད་རོགས།</string>
-    <string name="toast_camera_permission_required">RecorderX ལ་པར་ཆས་ཆོག་མཆན་སྤྲོད་རོགས།</string>
-    <string name="toast_accessibility_permission_screenshot">RecorderX ཡིས་གསལ་ཤེལ་པར་ལེན་པར་སྤྱོད་བདེའི་ཆོག་མཆན་སྤྲོད་རོགས།</string>
+    <string name="toast_accessibility_permission_mic">RecorderZ ཡིས་མིང་སྐད་ཚོད་འཛིན་བྱེད་པར་སྤྱོད་བདེའི་ཆོག་མཆན་སྤྲོད་རོགས།</string>
+    <string name="toast_camera_permission_required">RecorderZ ལ་པར་ཆས་ཆོག་མཆན་སྤྲོད་རོགས།</string>
+    <string name="toast_accessibility_permission_screenshot">RecorderZ ཡིས་གསལ་ཤེལ་པར་ལེན་པར་སྤྱོད་བདེའི་ཆོག་མཆན་སྤྲོད་རོགས།</string>
     <string name="toast_recording_deleted">སྒྲ་ཕབ་བསུབས་ཟིན།</string>
     <string name="toast_hardware_av1_not_found">མཁྲེགས་ཆས་ AV1 མ་རྙེད། མཉེན་ཆས་ AV1 ཐོག་སྒྲ་ཕབ་བཞིན་པ…</string>
     <string name="toast_codec_fallback">%1$s ལ་མཁྲེགས་ཆས་ཨང་སྒྲིག་ཆས་མེད་པས་ %2$s ཐོག་སྒྲ་ཕབ་བྱེད།</string>
     <string name="toast_hardware_overloaded">མཁྲེགས་ཆས་ཁུར་ལྕི་དྲགས། རང་འགུལ་དམའ་འབེབས་བྱེད…</string>
-    <string name="toast_screenshot_saved">གསལ་ཤེལ་པར་ Pictures/RecorderX ནང་ཉར་ཚགས་བྱས།</string>
+    <string name="toast_screenshot_saved">གསལ་ཤེལ་པར་ Pictures/RecorderZ ནང་ཉར་ཚགས་བྱས།</string>
     <string name="accessibility_desc">བརྙན་རིས་སྒྲ་ཕབ་བར་ཆད་མེད་པར་མ་ལག་གི་གསལ་ཤེལ་པར་ལེན་པའི་ཆེད་དུ་ཁོ་ནར་སྤྱོད།</string>
     <string name="widget_quick_record_title">མྱུར་དུ་སྒྲ་ཕབ།</string>
     <string name="widget_control_center_title">ཚོད་འཛིན་ལྟེ་གནས།</string>

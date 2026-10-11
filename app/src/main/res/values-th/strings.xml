@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">เริ่มบันทึกหน้าจอ</string>
     <string name="stop_recording">หยุดบันทึกหน้าจอ</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ปัดที่นี่</string>
     <string name="title_recorder">เครื่องบันทึก</string>
-    <string name="saved_in_path">บันทึกใน: /Movies/RecorderX</string>
+    <string name="saved_in_path">บันทึกใน: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (เข้ากันได้กับเครื่องเล่นอื่นมากที่สุด), H.265 (การบีบอัดที่มีประสิทธิภาพสูง) หรือ AV1 (คุณภาพสูงแห่งยุคถัดไป)</string>
     <string name="guide_orientation_desc">ล็อคอัตราส่วนภาพของวิดีโอที่บันทึกไว้เป็นอัตโนมัติ แนวตั้ง (แนวตั้ง) หรือแนวนอน (แนวนอน)</string>
     <string name="guide_resolution_desc">NATIVE จับภาพด้วยความละเอียดที่แน่นอนของหน้าจอของคุณ การบันทึกการล็อค 4K, 2K, FHD, HD และ SD เป็นขนาดมาตรฐาน</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">ฉันเข้าใจ (%d)</string>
     <string name="dialog_auto_orientation_button">ฉันเข้าใจ</string>
     <string name="dialog_overlay_permission_title">จำเป็นต้องได้รับอนุญาตซ้อนทับ</string>
-    <string name="dialog_overlay_permission_message">หากต้องการแสดงฟองตัวควบคุมแบบลอย RecorderX ต้องได้รับอนุญาตจึงจะแสดงเหนือแอปอื่นๆ โปรดอนุญาตในหน้าจอถัดไป</string>
+    <string name="dialog_overlay_permission_message">หากต้องการแสดงฟองตัวควบคุมแบบลอย RecorderZ ต้องได้รับอนุญาตจึงจะแสดงเหนือแอปอื่นๆ โปรดอนุญาตในหน้าจอถัดไป</string>
     <string name="btn_grant">แกรนท์</string>
     <string name="btn_cancel">ยกเลิก</string>
     <string name="dialog_av1_software_title">⚠ การเข้ารหัสซอฟต์แวร์ AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">ค่าเริ่มต้นของระบบ</string>
     <string name="naming_template_helper">พิมพ์คำนำหน้าที่คุณต้องการในกล่องเทมเพลตเพื่อปรับแต่งชื่อวิดีโอที่บันทึกไว้\nเพิ่มตัวยึดตำแหน่ง {timestamp} เพื่อให้แน่ใจว่าทุกไฟล์ได้รับการจัดระเบียบตามลำดับตามวันที่\nอักขระที่ไม่ถูกต้องจะถูกตัดออกโดยอัตโนมัติ โดยจะใช้ค่าเริ่มต้นเป็นการประทับเวลาใหม่ทั้งหมดหากว่างเปล่า\nรูปแบบ: yyyyMMdd_HHmmss (เช่น 20260712_143000)</string>
     <string name="onboarding_swipe_title">🎨 ปัดเพื่อเปลี่ยนสี</string>
-    <string name="onboarding_swipe_description">ปัดไปทางซ้ายหรือขวาที่ใดก็ได้เหนือพื้นที่ชื่อ RecorderX เพื่อวนไปมาระหว่างสีเน้นธีมอันงดงาม 12 สี!</string>
+    <string name="onboarding_swipe_description">ปัดไปทางซ้ายหรือขวาที่ใดก็ได้เหนือพื้นที่ชื่อ RecorderZ เพื่อวนไปมาระหว่างสีเน้นธีมอันงดงาม 12 สี!</string>
     <string name="btn_got_it">เข้าใจแล้ว</string>
     <string name="camera_front">ด้านหน้า</string>
     <string name="camera_back">กลับ</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">บริการเครื่องบันทึก</string>
     <string name="channel_recording_saved">บันทึกการบันทึกแล้ว</string>
     <string name="notification_saved_title">บันทึกการบันทึกแล้ว</string>
-    <string name="notification_saved_text">แตะเพื่อดูการบันทึกของคุณใน /Movies/RecorderX</string>
+    <string name="notification_saved_text">แตะเพื่อดูการบันทึกของคุณใน /Movies/RecorderZ</string>
     <string name="notification_action_delete">ลบ</string>
-    <string name="notification_active_title">RecorderX ทำงานอยู่</string>
-    <string name="notification_paused_title">RecorderX ถูกหยุดชั่วคราว</string>
+    <string name="notification_active_title">RecorderZ ทำงานอยู่</string>
+    <string name="notification_paused_title">RecorderZ ถูกหยุดชั่วคราว</string>
     <string name="notification_action_pause">หยุดการบันทึกชั่วคราว</string>
     <string name="notification_action_resume">บันทึกต่อ</string>
     <string name="notification_action_show">แสดง</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">สิทธิ์ในการจับภาพหน้าจอถูกปฏิเสธ</string>
     <string name="toast_start_recorder_failed">ไม่สามารถเริ่มโปรแกรมบันทึกได้</string>
     <string name="toast_copied_timestamp">คัดลอก {timestamp} ไปยังคลิปบอร์ดแล้ว</string>
-    <string name="toast_accessibility_permission_mic">โปรดเปิดใช้งานการอนุญาตการเข้าถึงสำหรับ RecorderX เพื่อควบคุมไมโครโฟน</string>
-    <string name="toast_camera_permission_required">โปรดให้สิทธิ์กล้องใน RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">โปรดเปิดใช้งานการอนุญาตการเข้าถึงสำหรับ RecorderX เพื่อจับภาพหน้าจอ</string>
+    <string name="toast_accessibility_permission_mic">โปรดเปิดใช้งานการอนุญาตการเข้าถึงสำหรับ RecorderZ เพื่อควบคุมไมโครโฟน</string>
+    <string name="toast_camera_permission_required">โปรดให้สิทธิ์กล้องใน RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">โปรดเปิดใช้งานการอนุญาตการเข้าถึงสำหรับ RecorderZ เพื่อจับภาพหน้าจอ</string>
     <string name="toast_recording_deleted">ลบการบันทึกแล้ว</string>
     <string name="toast_hardware_av1_not_found">ไม่พบฮาร์ดแวร์ AV1 กำลังบันทึกในโหมดซอฟต์แวร์ AV1...</string>
     <string name="toast_codec_fallback">%1$s ไม่มีตัวเข้ารหัสฮาร์ดแวร์ที่นี่ โดยบันทึกเป็น %2$s แทน</string>
     <string name="toast_hardware_overloaded">ฮาร์ดแวร์โอเวอร์โหลด กำลังดาวน์เกรดอัตโนมัติ...</string>
-    <string name="toast_screenshot_saved">ภาพหน้าจอที่บันทึกไว้ใน Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">ภาพหน้าจอที่บันทึกไว้ใน Pictures/RecorderZ</string>
     <string name="accessibility_desc">ใช้เพื่อเรียกใช้ภาพหน้าจอของระบบเนทิฟในระหว่างเซสชันการบันทึกหน้าจอเท่านั้น โดยไม่รบกวนการจับภาพวิดีโอ</string>
     <string name="widget_quick_record_title">บันทึกด่วน</string>
     <string name="widget_control_center_title">ศูนย์ควบคุม</string>

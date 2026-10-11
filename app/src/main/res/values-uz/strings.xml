@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">YOZISHNI BOSHLASH</string>
     <string name="stop_recording">YOZISHNI TOʻXTATISH</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">BU YERGA SURING</string>
     <string name="title_recorder">REGORDER</string>
-    <string name="saved_in_path">Saqlangan: /Movies/RecorderX</string>
+    <string name="saved_in_path">Saqlangan: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (boshqa oʻyinchilar bilan eng mos), H.265 (Yuqori samarali siqish) yoki AV1 (Keyingi avlod yuqori sifat).</string>
     <string name="guide_orientation_desc">Yozib olingan video nisbatlarini Avtomatik, Portret (vertikal) yoki Landshaft (gorizontal) ga qulflang.</string>
     <string name="guide_resolution_desc">NATIVE ekraningizning aniq ruxsatida suratga oladi. 4K, 2K, FHD, HD va SD qulflash standart o‘lchamlarga mos keladi.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Tushundim (%d)</string>
     <string name="dialog_auto_orientation_button">Tushundim</string>
     <string name="dialog_overlay_permission_title">Overlay ruxsati talab qilinadi</string>
-    <string name="dialog_overlay_permission_message">Suzuvchi kontroller pufakchasini ko\'rsatish uchun RecorderX boshqa ilovalar ustida ko\'rsatishga ruxsat berishi kerak. Iltimos, keyingi ekranda ruxsat bering.</string>
+    <string name="dialog_overlay_permission_message">Suzuvchi kontroller pufakchasini ko\'rsatish uchun RecorderZ boshqa ilovalar ustida ko\'rsatishga ruxsat berishi kerak. Iltimos, keyingi ekranda ruxsat bering.</string>
     <string name="btn_grant">Ruxsat berish</string>
     <string name="btn_cancel">Bekor qilish</string>
     <string name="dialog_av1_software_title">⚠ AV1 dasturiy ta\'minotini kodlash</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Tizim standarti</string>
     <string name="naming_template_helper">Saqlangan video nomlaringizni moslashtirish uchun shablon maydoniga oʻzingiz yoqtirgan prefiksni kiriting.\nHar bir fayl sana boʻyicha ketma-ket tartiblanganligiga ishonch hosil qilish uchun {timestamp} oʻrinbosarini qoʻshing.\nYaroqsiz belgilar avtomatik ravishda oʻchiriladi, agar boʻsh boʻlsa, birlamchi vaqt tamgʻasi tozalanadi.\nFormat: yyyy.MMsd_ss. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Rangni oʻzgartirish uchun suring</string>
-    <string name="onboarding_swipe_description">12 ta ajoyib mavzu aksan ranglari o‘rtasida aylanish uchun RecorderX sarlavhasi maydonining istalgan joyida chap yoki o‘ngga suring!</string>
+    <string name="onboarding_swipe_description">12 ta ajoyib mavzu aksan ranglari o‘rtasida aylanish uchun RecorderZ sarlavhasi maydonining istalgan joyida chap yoki o‘ngga suring!</string>
     <string name="btn_got_it">Tushundim</string>
     <string name="camera_front">Old</string>
     <string name="camera_back">Orqaga</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Yozuvchi xizmati</string>
     <string name="channel_recording_saved">Yozuv saqlandi</string>
     <string name="notification_saved_title">Yozuv saqlandi</string>
-    <string name="notification_saved_text">Yozuvingizni /Movies/RecorderX da koʻrish uchun bosing</string>
+    <string name="notification_saved_text">Yozuvingizni /Movies/RecorderZ da koʻrish uchun bosing</string>
     <string name="notification_action_delete">Oʻchirish</string>
-    <string name="notification_active_title">RecorderX faol</string>
-    <string name="notification_paused_title">RecorderX pauza qilingan</string>
+    <string name="notification_active_title">RecorderZ faol</string>
+    <string name="notification_paused_title">RecorderZ pauza qilingan</string>
     <string name="notification_action_pause">Yozishni to‘xtatib turish</string>
     <string name="notification_action_resume">Yozishni davom ettirish</string>
     <string name="notification_action_show">Ko\'rsatish</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Ekranni suratga olish ruxsati rad etildi</string>
     <string name="toast_start_recorder_failed">Yozuvchini ishga tushirib bo‘lmadi</string>
     <string name="toast_copied_timestamp">{timestamp} formati vaqtinchalik xotiraga nusxalandi</string>
-    <string name="toast_accessibility_permission_mic">Mikrofonni boshqarish uchun RecorderX uchun maxsus imkoniyatlar ruxsatini yoqing</string>
-    <string name="toast_camera_permission_required">RecorderX da Kameraga ruxsat bering</string>
-    <string name="toast_accessibility_permission_screenshot">Skrinshot olish uchun RecorderX uchun maxsus imkoniyatlar ruxsatini yoqing</string>
+    <string name="toast_accessibility_permission_mic">Mikrofonni boshqarish uchun RecorderZ uchun maxsus imkoniyatlar ruxsatini yoqing</string>
+    <string name="toast_camera_permission_required">RecorderZ da Kameraga ruxsat bering</string>
+    <string name="toast_accessibility_permission_screenshot">Skrinshot olish uchun RecorderZ uchun maxsus imkoniyatlar ruxsatini yoqing</string>
     <string name="toast_recording_deleted">Yozuv oʻchirildi</string>
     <string name="toast_hardware_av1_not_found">AV1 apparati topilmadi. Software AV1 rejimida yozib olinmoqda…</string>
     <string name="toast_codec_fallback">%1$s bu yerda hech qanday apparat enkoderi yo‘q, uning o‘rniga %2$s formatida yozib olinadi.</string>
     <string name="toast_hardware_overloaded">Uskuna haddan tashqari yuklangan. Avtomatik pasaytirish…</string>
-    <string name="toast_screenshot_saved">Skrinshot Pictures/RecorderX-ga saqlandi</string>
+    <string name="toast_screenshot_saved">Skrinshot Pictures/RecorderZ-ga saqlandi</string>
     <string name="accessibility_desc">Video yozib olishni to\'xtatmasdan, ekran yozish seanslari davomida faqat mahalliy tizim skrinshotlarini ishga tushirish uchun ishlatiladi.</string>
     <string name="widget_quick_record_title">Tezkor yozish</string>
     <string name="widget_control_center_title">Boshqaruv markazi</string>

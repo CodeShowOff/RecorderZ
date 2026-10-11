@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">ÝAZGYYYY BAŞLAT</string>
     <string name="stop_recording">ÝAZGYYYY DOKAT</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,7 +62,7 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Düşünýärin (%d)</string>
     <string name="dialog_auto_orientation_button">Men düşündim</string>
     <string name="dialog_overlay_permission_title">Örtük rugsady talap edilýär</string>
-    <string name="dialog_overlay_permission_message">Floüzýän gözegçilik ediji köpügini görkezmek üçin RecorderX beýleki programmalarda görkezmäge rugsat almaly. Indiki ekranda bermegiňizi haýyş edýäris.</string>
+    <string name="dialog_overlay_permission_message">Floüzýän gözegçilik ediji köpügini görkezmek üçin RecorderZ beýleki programmalarda görkezmäge rugsat almaly. Indiki ekranda bermegiňizi haýyş edýäris.</string>
     <string name="btn_grant">Rugsat ber</string>
     <string name="btn_cancel">Elatyr</string>
     <string name="dialog_av1_software_title">⚠ AV1 programma üpjünçiligini kodlamak</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Ulgam standarty</string>
     <string name="naming_template_helper">Saklanan wideo atlaryňyzy şahsylaşdyrmak üçin şablon gutusyna islän prefiksiňizi ýazyň. \ N Her faýlyň senesi boýunça yzygiderli tertipleşdirilmegini üpjün etmek üçin {timestamp} ýer eýesini goşuň.</string>
     <string name="onboarding_swipe_title">Rec Recolora süýşüriň</string>
-    <string name="onboarding_swipe_description">12 sany ajaýyp mowzuk aksent reňkiniň arasynda aýlanmak üçin “RecorderX” adynyň çäginden çepe ýa-da saga süýşüriň!</string>
+    <string name="onboarding_swipe_description">12 sany ajaýyp mowzuk aksent reňkiniň arasynda aýlanmak üçin “RecorderZ” adynyň çäginden çepe ýa-da saga süýşüriň!</string>
     <string name="btn_got_it">Düşündim</string>
     <string name="camera_front">Öň tarapy</string>
     <string name="camera_back">Yzyna</string>
@@ -111,7 +111,7 @@
     <string name="channel_recorder_service">Diktofon hyzmaty</string>
     <string name="channel_recording_saved">Sazga alyndy</string>
     <string name="notification_saved_title">Sazga alyndy</string>
-    <string name="notification_saved_text">Movsazgylaryňyzy / Filmler / RecorderX-da görmek üçin basyň</string>
+    <string name="notification_saved_text">Movsazgylaryňyzy / Filmler / RecorderZ-da görmek üçin basyň</string>
     <string name="notification_action_delete">Öçür</string>
     <string name="notification_active_title">Diktofon işjeňdir</string>
     <string name="notification_paused_title">Diktofon duruzyldy</string>
@@ -130,9 +130,9 @@
     <string name="toast_screen_capture_denied">Ekrany almak üçin rugsat berilmedi</string>
     <string name="toast_start_recorder_failed">Diktofony açyp bilmedi</string>
     <string name="toast_copied_timestamp">{timestamp} buferine göçürildi</string>
-    <string name="toast_accessibility_permission_mic">Mikro gözegçilik etmek üçin RecorderX üçin elýeterlilik rugsadyny açmagyňyzy haýyş edýäris</string>
-    <string name="toast_camera_permission_required">RecorderX-da Kamera rugsady bermegiňizi haýyş edýäris</string>
-    <string name="toast_accessibility_permission_screenshot">“RecorderX” -iň ekran suratlaryny almagy üçin elýeterlilik rugsatnamasyny açmagyňyzy haýyş edýäris</string>
+    <string name="toast_accessibility_permission_mic">Mikro gözegçilik etmek üçin RecorderZ üçin elýeterlilik rugsadyny açmagyňyzy haýyş edýäris</string>
+    <string name="toast_camera_permission_required">RecorderZ-da Kamera rugsady bermegiňizi haýyş edýäris</string>
+    <string name="toast_accessibility_permission_screenshot">“RecorderZ” -iň ekran suratlaryny almagy üçin elýeterlilik rugsatnamasyny açmagyňyzy haýyş edýäris</string>
     <string name="toast_recording_deleted">Ordingazgy öçürildi</string>
     <string name="toast_hardware_av1_not_found">AV1 enjamy tapylmady Programma üpjünçiligi AV1 re modeiminde…</string>
     <string name="toast_codec_fallback">%1$s bu ýerde enjam kodlaýjysy ýok, ýerine %2$s ýazga alýar.</string>

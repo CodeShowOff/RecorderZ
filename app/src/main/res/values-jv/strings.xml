@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">MULAI NGRERAM</string>
     <string name="stop_recording">LERENI NGRERAM</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWIPE kene</string>
     <string name="title_recorder">REKAMAN</string>
-    <string name="saved_in_path">Disimpen ing: /Film/RecorderX</string>
+    <string name="saved_in_path">Disimpen ing: /Film/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Paling kompatibel karo pemain liyane), H.265 (Highly komprèsi efisien), utawa AV1 (Sabanjure-generasi kualitas dhuwur).</string>
     <string name="guide_orientation_desc">Kunci rasio aspek video sing direkam dadi Otomatis, Potret (vertikal), utawa Lanskap (horizontal).</string>
     <string name="guide_resolution_desc">NATIVE njupuk ing resolusi pas layar. Jupuk kunci 4K, 2K, FHD, HD, lan SD menyang ukuran standar.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Aku Ngerti (%d)</string>
     <string name="dialog_auto_orientation_button">Aku Ngerti</string>
     <string name="dialog_overlay_permission_title">Ijin Overlay Dibutuhake</string>
-    <string name="dialog_overlay_permission_message">Kanggo nampilake gelembung pengontrol sing ngambang, RecorderX mbutuhake ijin kanggo nampilake aplikasi liyane. Mangga wenehake ing layar sabanjure.</string>
+    <string name="dialog_overlay_permission_message">Kanggo nampilake gelembung pengontrol sing ngambang, RecorderZ mbutuhake ijin kanggo nampilake aplikasi liyane. Mangga wenehake ing layar sabanjure.</string>
     <string name="btn_grant">Idini</string>
     <string name="btn_cancel">Batal</string>
     <string name="dialog_av1_software_title">⚠ Encoding Piranti Lunak AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Sistem Default</string>
     <string name="naming_template_helper">Ketik ater-ater sing disenengi ing kothak cithakan kanggo nggawe judhul video sing wis disimpen.\nTambah placeholder {timestamp} kanggo mesthekake saben file diatur kanthi urutan miturut tanggal.\nKarakter sing ora bener bakal dicopot kanthi otomatis, bakal dadi stempel wektu sing resik yen kosong.\nFormat: yyyyMMdd_HHmmss (e. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Gesek kanggo Werna maneh</string>
-    <string name="onboarding_swipe_description">Gesek ngiwa utawa nengen ing ngendi wae ing area judhul RecorderX kanggo muter ing antarane 12 warna aksen tema sing apik banget!</string>
+    <string name="onboarding_swipe_description">Gesek ngiwa utawa nengen ing ngendi wae ing area judhul RecorderZ kanggo muter ing antarane 12 warna aksen tema sing apik banget!</string>
     <string name="btn_got_it">Wis</string>
     <string name="camera_front">Ngarep</string>
     <string name="camera_back">Mbalik</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Service Recorder</string>
     <string name="channel_recording_saved">Rekaman Disimpen</string>
     <string name="notification_saved_title">Rekaman Disimpen</string>
-    <string name="notification_saved_text">Tutul kanggo ndeleng rekaman ing /Movies/RecorderX</string>
+    <string name="notification_saved_text">Tutul kanggo ndeleng rekaman ing /Movies/RecorderZ</string>
     <string name="notification_action_delete">Mbusak</string>
-    <string name="notification_active_title">RecorderX aktif</string>
-    <string name="notification_paused_title">RecorderX ngaso</string>
+    <string name="notification_active_title">RecorderZ aktif</string>
+    <string name="notification_paused_title">RecorderZ ngaso</string>
     <string name="notification_action_pause">Ngaso Rekaman</string>
     <string name="notification_action_resume">Resume Rekaman</string>
     <string name="notification_action_show">Tampilake</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Ijin njupuk layar ditolak</string>
     <string name="toast_start_recorder_failed">Gagal miwiti recorder</string>
     <string name="toast_copied_timestamp">Disalin {timestamp} menyang clipboard</string>
-    <string name="toast_accessibility_permission_mic">Aktifake ijin Aksesibilitas kanggo RecorderX kanggo ngontrol mikrofon</string>
-    <string name="toast_camera_permission_required">Mangga wenehi ijin Kamera ing RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Aktifake ijin Aksesibilitas kanggo RecorderX kanggo njupuk gambar</string>
+    <string name="toast_accessibility_permission_mic">Aktifake ijin Aksesibilitas kanggo RecorderZ kanggo ngontrol mikrofon</string>
+    <string name="toast_camera_permission_required">Mangga wenehi ijin Kamera ing RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Aktifake ijin Aksesibilitas kanggo RecorderZ kanggo njupuk gambar</string>
     <string name="toast_recording_deleted">Rekaman dibusak</string>
     <string name="toast_hardware_av1_not_found">Hardware AV1 ora ditemokake. Ngrekam ing mode Software AV1…</string>
     <string name="toast_codec_fallback">%1$s ora duwe encoder hardware ing kene, ngrekam ing %2$s.</string>
     <string name="toast_hardware_overloaded">Hardware overloaded. Mudhun otomatis…</string>
-    <string name="toast_screenshot_saved">Potret layar disimpen menyang Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Potret layar disimpen menyang Pictures/RecorderZ</string>
     <string name="accessibility_desc">Digunakake mung kanggo micu gambar sistem asli sajrone sesi rekaman layar tanpa ngganggu njupuk video.</string>
     <string name="widget_quick_record_title">Rekam Cepet</string>
     <string name="widget_control_center_title">Pusat Kontrol</string>

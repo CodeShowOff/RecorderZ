@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">START RECORDING</string>
     <string name="stop_recording">STOP RECORDING</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -85,14 +85,14 @@
         <item>MAX</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Advanced settings are automatically saved.</string>
     <string name="accessibility_desc">Used solely to trigger native system screenshots during screen recording sessions without interrupting the video capture.</string>
 
     <!-- Branding & Header -->
     <string name="title_swipe_here">SWIPE HERE</string>
     <string name="title_recorder">RECORDER</string>
-    <string name="saved_in_path">Saved in: /Movies/RecorderX</string>
+    <string name="saved_in_path">Saved in: /Movies/RecorderZ</string>
 
     <!-- Guide Dialog Descriptions -->
     <string name="guide_codec_desc">H.264 (Most compatible with other players), H.265 (Highly efficient compression), or AV1 (Next-generation high quality).</string>
@@ -112,7 +112,7 @@
 
     <!-- Overlay Permission Dialog -->
     <string name="dialog_overlay_permission_title">Overlay Permission Required</string>
-    <string name="dialog_overlay_permission_message">To display the floating controller bubble, RecorderX needs permission to display over other apps. Please grant it on the next screen.</string>
+    <string name="dialog_overlay_permission_message">To display the floating controller bubble, RecorderZ needs permission to display over other apps. Please grant it on the next screen.</string>
     <string name="btn_grant">Grant</string>
     <string name="btn_cancel">Cancel</string>
 
@@ -131,7 +131,7 @@
 
     <!-- Swipe Onboarding Overlay -->
     <string name="onboarding_swipe_title">🎨 Swipe to Recolor</string>
-    <string name="onboarding_swipe_description">Swipe left or right anywhere over the RecorderX title area to cycle between 12 gorgeous theme accent colors!</string>
+    <string name="onboarding_swipe_description">Swipe left or right anywhere over the RecorderZ title area to cycle between 12 gorgeous theme accent colors!</string>
     <string name="btn_got_it">Got It</string>
 
     <!-- Floating Bubble Facecam Controls -->
@@ -153,10 +153,10 @@
     <string name="channel_recorder_service">Recorder Service</string>
     <string name="channel_recording_saved">Recording Saved</string>
     <string name="notification_saved_title">Recording Saved</string>
-    <string name="notification_saved_text">Tap to view your recording in /Movies/RecorderX</string>
+    <string name="notification_saved_text">Tap to view your recording in /Movies/RecorderZ</string>
     <string name="notification_action_delete">Delete</string>
-    <string name="notification_active_title">RecorderX is active</string>
-    <string name="notification_paused_title">RecorderX is paused</string>
+    <string name="notification_active_title">RecorderZ is active</string>
+    <string name="notification_paused_title">RecorderZ is paused</string>
     <string name="notification_action_pause">Pause Recording</string>
     <string name="notification_action_resume">Resume Recording</string>
     <string name="notification_action_show">Show</string>
@@ -174,14 +174,14 @@
     <string name="toast_screen_capture_denied">Screen capture permission denied</string>
     <string name="toast_start_recorder_failed">Failed to start recorder</string>
     <string name="toast_copied_timestamp">Copied {timestamp} to clipboard</string>
-    <string name="toast_accessibility_permission_mic">Please enable Accessibility permission for RecorderX to control mic</string>
-    <string name="toast_camera_permission_required">Please grant Camera permission in RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Please enable Accessibility permission for RecorderX to take screenshots</string>
+    <string name="toast_accessibility_permission_mic">Please enable Accessibility permission for RecorderZ to control mic</string>
+    <string name="toast_camera_permission_required">Please grant Camera permission in RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Please enable Accessibility permission for RecorderZ to take screenshots</string>
     <string name="toast_recording_deleted">Recording deleted</string>
     <string name="toast_hardware_av1_not_found">Hardware AV1 not found. Recording in Software AV1 mode…</string>
     <string name="toast_codec_fallback">%1$s has no hardware encoder here, recording in %2$s instead.</string>
     <string name="toast_hardware_overloaded">Hardware overloaded. Auto-downgrading…</string>
-    <string name="toast_screenshot_saved">Screenshot saved to Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Screenshot saved to Pictures/RecorderZ</string>
 
     <!-- Widgets -->
     <string name="widget_quick_record_title">Quick Record</string>
@@ -210,7 +210,7 @@
     <string name="toast_camera_armed">Camera: ON (Starts with recording)</string>
 
     <!-- Welcome Dialog (v1.0.0 Initial Release) -->
-    <string name="welcome_title">WELCOME TO RECORDERX</string>
+    <string name="welcome_title">WELCOME TO RECORDERZ</string>
     <string name="welcome_version">v1.0.0</string>
     <string name="welcome_feature1_title">High-Quality Recording</string>
     <string name="welcome_feature1_desc">Record in 4K resolution at up to 120 FPS with next-gen AV1, H.265, and H.264 codecs for maximum clarity.</string>

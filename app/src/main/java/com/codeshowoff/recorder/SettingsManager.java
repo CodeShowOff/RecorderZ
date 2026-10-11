@@ -7,7 +7,7 @@ import android.util.DisplayMetrics;
 import android.view.WindowManager;
 
 public class SettingsManager {
-    private static final String PREFS_NAME = "recorderx_settings";
+    private static final String PREFS_NAME = "recorderz_settings";
     private static final String KEY_RESOLUTION = "resolution";
     private static final String KEY_BITRATE = "bitrate";
     private static final String KEY_FPS = "fps";
@@ -65,7 +65,7 @@ public class SettingsManager {
     public String getNamingTemplate() { 
         String template = prefs.getString(KEY_NAMING_TEMPLATE, ""); 
         if (template == null || template.trim().isEmpty()) {
-            return "RecorderX_{timestamp}";
+            return "RecorderZ_{timestamp}";
         }
         return template;
     }

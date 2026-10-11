@@ -1,4 +1,4 @@
-RecorderX is a high-performance, privacy-focused screen recorder for Android.
+RecorderZ is a high-performance, privacy-focused screen recorder for Android.
 
 Key Features:
 - Record up to 4K (UHD) and 2K (QHD) for crystal clear video.

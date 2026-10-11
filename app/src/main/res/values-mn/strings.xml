@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">БИЧЛЭГ ЭХЛҮҮЛЭХ</string>
     <string name="stop_recording">БИЧЛЭГ ЗОГСООХ</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ЭНД ШУУД АВНА УУ</string>
     <string name="title_recorder">БИЧИГЧ</string>
-    <string name="saved_in_path">Хадгалсан: /Movies/RecorderX</string>
+    <string name="saved_in_path">Хадгалсан: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Бусад тоглогчидтой хамгийн нийцтэй), H.265 (Өндөр үр ашигтай шахалт) эсвэл AV1 (Дараагийн үеийн өндөр чанартай).</string>
     <string name="guide_orientation_desc">Бичсэн видеоны харьцааг Автомат, Хөрөг (босоо) эсвэл Ландшафт (хэвтээ) болгон түгжих.</string>
     <string name="guide_resolution_desc">NATIVE нь таны дэлгэцийн нарийвчлалтайгаар зураг авдаг. 4K, 2K, FHD, HD, болон SD түгжээг стандарт хэмжээсүүдээр буулгана.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Би ойлгож байна (%d)</string>
     <string name="dialog_auto_orientation_button">Би ойлгож байна</string>
     <string name="dialog_overlay_permission_title">Давхардсан зөвшөөрөл шаардлагатай</string>
-    <string name="dialog_overlay_permission_message">Хөвөгч хянагчийн бөмбөлгийг харуулахын тулд RecorderX-д бусад аппликешн дээр харуулах зөвшөөрөл шаардлагатай. Дараагийн дэлгэцэн дээр зөвшөөрнө үү.</string>
+    <string name="dialog_overlay_permission_message">Хөвөгч хянагчийн бөмбөлгийг харуулахын тулд RecorderZ-д бусад аппликешн дээр харуулах зөвшөөрөл шаардлагатай. Дараагийн дэлгэцэн дээр зөвшөөрнө үү.</string>
     <string name="btn_grant">Грант</string>
     <string name="btn_cancel">Цуцлах</string>
     <string name="dialog_av1_software_title">⚠ AV1 програм хангамжийн кодчилол</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Системийн өгөгдмөл</string>
     <string name="naming_template_helper">Хадгалсан видеоны гарчгийг өөрчлөхийн тулд загварын талбарт дуртай угтвараа бичнэ үү.\nФайл бүрийг огноогоор нь дараалан цэгцлэхийн тулд {timestamp} орлуулагчийг нэмнэ үү.\nХүчингүй тэмдэгтүүдийг автоматаар хасна, хэрэв хоосон бол өгөгдмөл нь цэвэр цагийн тэмдэглэгээ болно.\nФормат: yyyyMMdd_hg. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Дахин будахын тулд шударна уу</string>
-    <string name="onboarding_swipe_description">RecorderX гарчгийн талбарыг зүүн эсвэл баруун тийш шударна уу, 12 гоёмсог загварын өргөлтийн өнгө хооронд эргэлдэнэ!</string>
+    <string name="onboarding_swipe_description">RecorderZ гарчгийн талбарыг зүүн эсвэл баруун тийш шударна уу, 12 гоёмсог загварын өргөлтийн өнгө хооронд эргэлдэнэ!</string>
     <string name="btn_got_it">Ойлголоо</string>
     <string name="camera_front">Урд</string>
     <string name="camera_back">Буцах</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Дуу хураагуур үйлчилгээ</string>
     <string name="channel_recording_saved">Бичлэг хадгалагдсан</string>
     <string name="notification_saved_title">Бичлэг хадгалагдсан</string>
-    <string name="notification_saved_text">Бичлэгээ /Movies/RecorderX дээр үзэхийн тулд товшино уу</string>
+    <string name="notification_saved_text">Бичлэгээ /Movies/RecorderZ дээр үзэхийн тулд товшино уу</string>
     <string name="notification_action_delete">Устгах</string>
-    <string name="notification_active_title">RecorderX идэвхтэй байна</string>
-    <string name="notification_paused_title">RecorderX түр зогссон</string>
+    <string name="notification_active_title">RecorderZ идэвхтэй байна</string>
+    <string name="notification_paused_title">RecorderZ түр зогссон</string>
     <string name="notification_action_pause">Бичлэгийг түр зогсоох</string>
     <string name="notification_action_resume">Бичлэгийг үргэлжлүүлэх</string>
     <string name="notification_action_show">Үзүүлэх</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Дэлгэцийн зураг авах зөвшөөрлийг үгүйсгэв</string>
     <string name="toast_start_recorder_failed">Бичигчийг эхлүүлж чадсангүй</string>
     <string name="toast_copied_timestamp">{timestamp}-г санах ой руу хуулсан</string>
-    <string name="toast_accessibility_permission_mic">Микрофоныг удирдахын тулд RecorderX-д хандах хандалтын зөвшөөрлийг идэвхжүүлнэ үү</string>
-    <string name="toast_camera_permission_required">RecorderX дээр Камер ашиглах зөвшөөрлийг өгнө үү</string>
-    <string name="toast_accessibility_permission_screenshot">RecorderX-д дэлгэцийн агшин авахын тулд Хандалтын зөвшөөрлийг идэвхжүүлнэ үү</string>
+    <string name="toast_accessibility_permission_mic">Микрофоныг удирдахын тулд RecorderZ-д хандах хандалтын зөвшөөрлийг идэвхжүүлнэ үү</string>
+    <string name="toast_camera_permission_required">RecorderZ дээр Камер ашиглах зөвшөөрлийг өгнө үү</string>
+    <string name="toast_accessibility_permission_screenshot">RecorderZ-д дэлгэцийн агшин авахын тулд Хандалтын зөвшөөрлийг идэвхжүүлнэ үү</string>
     <string name="toast_recording_deleted">Бичлэгийг устгасан</string>
     <string name="toast_hardware_av1_not_found">AV1 техник хангамж олдсонгүй. Програм хангамжийн AV1 горимд бичиж байна...</string>
     <string name="toast_codec_fallback">%1$s-д техник хангамжийн кодлогч байхгүй, оронд нь %2$s дээр бичиж байна.</string>
     <string name="toast_hardware_overloaded">Техник хангамж хэт ачаалалтай байна. Автоматаар бууруулж байна...</string>
-    <string name="toast_screenshot_saved">Дэлгэцийн агшинг Pictures/RecorderX-д хадгалсан</string>
+    <string name="toast_screenshot_saved">Дэлгэцийн агшинг Pictures/RecorderZ-д хадгалсан</string>
     <string name="accessibility_desc">Видео бичлэгийг тасалдуулахгүйгээр дэлгэцийн бичлэг хийх явцад зөвхөн эх системийн дэлгэцийн агшинг өдөөхөд ашигладаг.</string>
     <string name="widget_quick_record_title">Хурдан бичлэг</string>
     <string name="widget_control_center_title">Удирдлагын төв</string>

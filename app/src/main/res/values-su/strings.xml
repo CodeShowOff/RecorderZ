@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">NGAWULAHAN NGARAKAM</string>
     <string name="stop_recording">EUREUN NGARAKAM</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWIPE IEUH</string>
     <string name="title_recorder">PANGRARAM</string>
-    <string name="saved_in_path">Disimpen dina: /Movies/RecorderX</string>
+    <string name="saved_in_path">Disimpen dina: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Paling cocog sareng pamaén séjén), H.265 (komprési kacida efisien), atawa AV1 (generasi saterusna kualitas luhur).</string>
     <string name="guide_orientation_desc">Konci rasio aspék video nu dirékam ka Otomatis, Potrét (vertikal), atawa Lansekap (horizontal).</string>
     <string name="guide_resolution_desc">NATIVE néwak dina résolusi tepat layar anjeun. 4K, 2K, FHD, HD, sareng SD lock candak kana ukuran standar.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Abdi Ngartos (%d)</string>
     <string name="dialog_auto_orientation_button">Abdi ngartos</string>
     <string name="dialog_overlay_permission_title">Idin Overlay Diperlukeun</string>
-    <string name="dialog_overlay_permission_message">Pikeun mintonkeun gelembung controller ngambang, RecorderX perlu idin pikeun nembongkeun leuwih aktip séjén. Mangga nyanggakeun dina layar salajengna.</string>
+    <string name="dialog_overlay_permission_message">Pikeun mintonkeun gelembung controller ngambang, RecorderZ perlu idin pikeun nembongkeun leuwih aktip séjén. Mangga nyanggakeun dina layar salajengna.</string>
     <string name="btn_grant">Hibah</string>
     <string name="btn_cancel">Ngabolaykeun</string>
     <string name="dialog_av1_software_title">⚠ Encoding Parangkat Lunak AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Standar Sistem</string>
     <string name="naming_template_helper">Ketik awalan anu anjeun pikaresep dina kotak citakan pikeun ngaropea judul pidéo anu disimpen.\nTambahkeun pananda tempat {timestamp} pikeun mastikeun unggal file disusun sacara berurutan dumasar titimangsa.\nKarakter anu teu sah sacara otomatis dicabut, standar kana cap waktu anu bersih upami kosong.\nFormat: yyyyMMdd_HHmmss (eyyymmdd_HHmmss 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Gesek pikeun Ngawarnaan deui</string>
-    <string name="onboarding_swipe_description">Gesek ka kenca atanapi ka katuhu dimana waé dina daérah judul RecorderX pikeun ngurilingan antara 12 warna aksen téma anu saé!</string>
+    <string name="onboarding_swipe_description">Gesek ka kenca atanapi ka katuhu dimana waé dina daérah judul RecorderZ pikeun ngurilingan antara 12 warna aksen téma anu saé!</string>
     <string name="btn_got_it">Gaduh</string>
     <string name="camera_front">Hareupeun</string>
     <string name="camera_back">Balik deui</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Service Recorder</string>
     <string name="channel_recording_saved">Rékaman Disimpen</string>
     <string name="notification_saved_title">Rékaman Disimpen</string>
-    <string name="notification_saved_text">Ketok pikeun nempo rékaman anjeun dina /Movies/RecorderX</string>
+    <string name="notification_saved_text">Ketok pikeun nempo rékaman anjeun dina /Movies/RecorderZ</string>
     <string name="notification_action_delete">Hapus</string>
-    <string name="notification_active_title">RecorderX aktip</string>
-    <string name="notification_paused_title">RecorderX direureuhkeun</string>
+    <string name="notification_active_title">RecorderZ aktip</string>
+    <string name="notification_paused_title">RecorderZ direureuhkeun</string>
     <string name="notification_action_pause">Ngareureuhkeun Rékam</string>
     <string name="notification_action_resume">Neruskeun Rekaman</string>
     <string name="notification_action_show">Témbongkeun</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Idin motret layar ditolak</string>
     <string name="toast_start_recorder_failed">Gagal ngamimitian recorder</string>
     <string name="toast_copied_timestamp">Disalin {timestamp} kana papan klip</string>
-    <string name="toast_accessibility_permission_mic">Punten aktipkeun idin Aksesibilitas pikeun RecorderX pikeun ngadalikeun mikrofon</string>
-    <string name="toast_camera_permission_required">Punten pasihan idin kaméra dina RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Punten aktipkeun idin Aksesibilitas pikeun RecorderX nyandak potret layar</string>
+    <string name="toast_accessibility_permission_mic">Punten aktipkeun idin Aksesibilitas pikeun RecorderZ pikeun ngadalikeun mikrofon</string>
+    <string name="toast_camera_permission_required">Punten pasihan idin kaméra dina RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Punten aktipkeun idin Aksesibilitas pikeun RecorderZ nyandak potret layar</string>
     <string name="toast_recording_deleted">Rékaman dihapus</string>
     <string name="toast_hardware_av1_not_found">Hardware AV1 teu kapanggih. Ngarékam dina modeu Software AV1…</string>
     <string name="toast_codec_fallback">%1$s henteu gaduh encoder hardware di dieu, ngarékam dina %2$s.</string>
     <string name="toast_hardware_overloaded">Hardware overloaded. Turunkeun otomatis…</string>
-    <string name="toast_screenshot_saved">Potret layar disimpen ka Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Potret layar disimpen ka Pictures/RecorderZ</string>
     <string name="accessibility_desc">Dipaké waé pikeun memicu screenshot sistem asli salami sési ngarékam layar tanpa ngaganggu néwak pidéo.</string>
     <string name="widget_quick_record_title">Rékam Gancang</string>
     <string name="widget_control_center_title">Puseur Kontrol</string>

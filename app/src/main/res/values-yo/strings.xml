@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">BẸ̀RẸ̀ GBÍGBÀ</string>
     <string name="stop_recording">DADURO GBÍGBÀ</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWIPE NIBI</string>
     <string name="title_recorder">Agbohunsile</string>
-    <string name="saved_in_path">Fipamọ sinu: /Movies/RecorderX</string>
+    <string name="saved_in_path">Fipamọ sinu: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Ọpọlọpọ ni ibamu pẹlu awọn ẹrọ orin miiran), H.265 (Imudara ti o ga julọ), tabi AV1 (ti o ga julọ ti iran-tẹle).</string>
     <string name="guide_orientation_desc">Titiipa awọn ipin abala fidio ti o gbasilẹ si Aifọwọyi, Aworan (inaro), tabi Ilẹ-ilẹ (petele).</string>
     <string name="guide_resolution_desc">NTIVE yaworan ni oju iboju rẹ gangan ipinnu. 4K, 2K, FHD, HD, ati gbigba titiipa SD si awọn iwọn boṣewa.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Mo Loye (%d)</string>
     <string name="dialog_auto_orientation_button">O ye mi</string>
     <string name="dialog_overlay_permission_title">Ti beere fun igbanilaaye agbekọja</string>
-    <string name="dialog_overlay_permission_message">Lati ṣafihan bubble oludari lilefoofo, RecorderX nilo igbanilaaye lati ṣafihan lori awọn ohun elo miiran. Jọwọ fun ni loju iboju atẹle.</string>
+    <string name="dialog_overlay_permission_message">Lati ṣafihan bubble oludari lilefoofo, RecorderZ nilo igbanilaaye lati ṣafihan lori awọn ohun elo miiran. Jọwọ fun ni loju iboju atẹle.</string>
     <string name="btn_grant">Fun ni aṣẹ</string>
     <string name="btn_cancel">Fagilee</string>
     <string name="dialog_av1_software_title">⚠ AV1 Software fifi koodu</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Iṣẹ Agbohunsilẹ</string>
     <string name="channel_recording_saved">Gbigbasilẹ ti fipamọ</string>
     <string name="notification_saved_title">Gbigbasilẹ ti fipamọ</string>
-    <string name="notification_saved_text">Tẹ ni kia kia lati wo gbigbasilẹ rẹ ni /Movies/RecorderX</string>
+    <string name="notification_saved_text">Tẹ ni kia kia lati wo gbigbasilẹ rẹ ni /Movies/RecorderZ</string>
     <string name="notification_action_delete">Paarẹ</string>
-    <string name="notification_active_title">RecorderX n ṣiṣẹ</string>
-    <string name="notification_paused_title">A da RecorderX duro</string>
+    <string name="notification_active_title">RecorderZ n ṣiṣẹ</string>
+    <string name="notification_paused_title">A da RecorderZ duro</string>
     <string name="notification_action_pause">Da Gbigbasilẹ duro</string>
     <string name="notification_action_resume">Tẹsiwaju Gbigbasilẹ</string>
     <string name="notification_action_show">Fihan</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">A kọ aṣẹ gbigba iboju</string>
     <string name="toast_start_recorder_failed">Kuna lati bẹrẹ agbohunsilẹ</string>
     <string name="toast_copied_timestamp">Daakọ {timestamp} si agekuru</string>
-    <string name="toast_accessibility_permission_mic">Jọwọ mu aṣẹ Wiwọle ṣiṣẹ fun RecorderX lati ṣakoso maiki</string>
-    <string name="toast_camera_permission_required">Jọwọ fun aṣẹ Kamẹra ni RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Jọwọ mu aṣẹ Wiwọle ṣiṣẹ fun RecorderX lati ya awọn sikirinifoto</string>
+    <string name="toast_accessibility_permission_mic">Jọwọ mu aṣẹ Wiwọle ṣiṣẹ fun RecorderZ lati ṣakoso maiki</string>
+    <string name="toast_camera_permission_required">Jọwọ fun aṣẹ Kamẹra ni RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Jọwọ mu aṣẹ Wiwọle ṣiṣẹ fun RecorderZ lati ya awọn sikirinifoto</string>
     <string name="toast_recording_deleted">Gbigbasilẹ ti paarẹ</string>
     <string name="toast_hardware_av1_not_found">A ko ri hardware AV1. Gbigbasilẹ ni ipo Software AV1…</string>
     <string name="toast_codec_fallback">%1$s ko ni koodu hardware nibi, gbigbasilẹ ni %2$s dipo.</string>
     <string name="toast_hardware_overloaded">Hardware ti pọ ju. Ti n dinku didara laifọwọyi…</string>
-    <string name="toast_screenshot_saved">A fipamọ sikirinifoto si Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">A fipamọ sikirinifoto si Pictures/RecorderZ</string>
     <string name="accessibility_desc">Ti a lo nikan lati ya awọn sikirinifoto eto abinibi lakoko awọn akoko gbigbasilẹ iboju laisi idilọwọ gbigba fidio.</string>
     <string name="widget_quick_record_title">Gbigbasilẹ Ni kiakia</string>
     <string name="widget_control_center_title">Gbọngan Iṣakoso</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">BILAAB DUUBISTA</string>
     <string name="stop_recording">JOOJI DUUBISTA</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">HALKAN KU DHACO</string>
     <string name="title_recorder">duubitaan</string>
-    <string name="saved_in_path">Lagu kaydiyay: /Filimooyin/RecorderX</string>
+    <string name="saved_in_path">Lagu kaydiyay: /Filimooyin/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Inta badan la jaan qaadaya ciyaartoyda kale), H.265 (cadaadis aad u hufan), ama AV1 (jiilka soo socda tayo sare leh).</string>
     <string name="guide_orientation_desc">Quful dhinaca saamiga muuqaalka duuban ee Auto, Portrait (toos ah), ama muuqaal muuqaal (horizontal).</string>
     <string name="guide_resolution_desc">HALKAAN HOOSE waxay ku sawirtaa xalka saxda ah ee shaashaddaada. 4K, 2K, FHD, HD, iyo qabashada qufulka SD ilaa cabbirada caadiga ah.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Waan fahmay (%d)</string>
     <string name="dialog_auto_orientation_button">Waan fahmay</string>
     <string name="dialog_overlay_permission_title">Ogolaanshaha dulsaarka ayaa loo baahan yahay</string>
-    <string name="dialog_overlay_permission_message">Si loo muujiyo xumbo-kormeeraha sabbaynaya, RecorderX wuxuu u baahan yahay ogolaansho si uu ugu muujiyo abka kale. Fadlan ku ogow shaashadda xigta.</string>
+    <string name="dialog_overlay_permission_message">Si loo muujiyo xumbo-kormeeraha sabbaynaya, RecorderZ wuxuu u baahan yahay ogolaansho si uu ugu muujiyo abka kale. Fadlan ku ogow shaashadda xigta.</string>
     <string name="btn_grant">Oggolow</string>
     <string name="btn_cancel">Jooji</string>
     <string name="dialog_av1_software_title">⚠ AV1 Software Encoding</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Nidaamka Default</string>
     <string name="naming_template_helper">Ku qor horgalaha aad doorbidayso sanduuqa template-ka si aad u shakhsiyayso ciwaanada fiidyaha ee kaydsan</string>
     <string name="onboarding_swipe_title">🎨 Ku dhufo si aad u midabayso</string>
-    <string name="onboarding_swipe_description">U leexo bidix ama midig meel kasta oo ka sarreeya aagga ciwaanka ee RecorderX si aad u wareegto inta u dhaxaysa 12 midab mawduuc oo qurux badan!</string>
+    <string name="onboarding_swipe_description">U leexo bidix ama midig meel kasta oo ka sarreeya aagga ciwaanka ee RecorderZ si aad u wareegto inta u dhaxaysa 12 midab mawduuc oo qurux badan!</string>
     <string name="btn_got_it">Helay</string>
     <string name="camera_front">Hore</string>
     <string name="camera_back">Dib u noqo</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Adeegga Duubista</string>
     <string name="channel_recording_saved">Duubista waa la keydiyay</string>
     <string name="notification_saved_title">Duubista waa la keydiyay</string>
-    <string name="notification_saved_text">Taabo si aad u aragto duubistaada /Movies/RecorderX</string>
+    <string name="notification_saved_text">Taabo si aad u aragto duubistaada /Movies/RecorderZ</string>
     <string name="notification_action_delete">Tirtir</string>
-    <string name="notification_active_title">RecorderX wuu shaqaynayaa</string>
-    <string name="notification_paused_title">RecorderX waa la hakiyay</string>
+    <string name="notification_active_title">RecorderZ wuu shaqaynayaa</string>
+    <string name="notification_paused_title">RecorderZ waa la hakiyay</string>
     <string name="notification_action_pause">Haki Duubista</string>
     <string name="notification_action_resume">Sii wad Duubista</string>
     <string name="notification_action_show">Show</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Ogolaanshaha shaashadda waa la diiday</string>
     <string name="toast_start_recorder_failed">Waa lagu guuldareystay in la bilaabo duubaha</string>
     <string name="toast_copied_timestamp">Waxaa la koobiyeeyay {timestamp} sabuuradda</string>
-    <string name="toast_accessibility_permission_mic">Fadlan u oggolow gelitaanka RecorderX si loo xakameeyo makarafoonka</string>
-    <string name="toast_camera_permission_required">Fadlan ka bixi ogolaanshaha Kaamerada RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Fadlan u oggolow gelitaanka RecorderX si uu u qaado shaashadda</string>
+    <string name="toast_accessibility_permission_mic">Fadlan u oggolow gelitaanka RecorderZ si loo xakameeyo makarafoonka</string>
+    <string name="toast_camera_permission_required">Fadlan ka bixi ogolaanshaha Kaamerada RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Fadlan u oggolow gelitaanka RecorderZ si uu u qaado shaashadda</string>
     <string name="toast_recording_deleted">Duubistii waa la tirtiray</string>
     <string name="toast_hardware_av1_not_found">Qalabka AV1 lama helin. Waxaa lagu duubayaa habka Software AV1…</string>
     <string name="toast_codec_fallback">%1$s halkan kuma laha qalab wax duuba, waxa lagu duubayaa %2$s beddelkeeda.</string>
     <string name="toast_hardware_overloaded">Qalabku wuu culays batay. Hoos ayaa loo dhigayaa tayada…</string>
-    <string name="toast_screenshot_saved">Sawirka shaashadda waxaa lagu keydiyay Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Sawirka shaashadda waxaa lagu keydiyay Pictures/RecorderZ</string>
     <string name="accessibility_desc">Waxa kaliya oo loo isticmaalaa in lagu qaado sawirada shaashadda inta lagu jiro duubista iyada oo aan la joojin fiidiyowga.</string>
     <string name="widget_quick_record_title">Duubis Degdeg ah</string>
     <string name="widget_control_center_title">Xarunta Xakamaynta</string>

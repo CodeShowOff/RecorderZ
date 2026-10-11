@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">録画開始</string>
     <string name="stop_recording">録画停止</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ここにスワイプしてください</string>
     <string name="title_recorder">レコーダー</string>
-    <string name="saved_in_path">保存場所: /Movies/RecorderX</string>
+    <string name="saved_in_path">保存場所: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (他のプレーヤーと最も互換性がある)、H.265 (高効率圧縮)、または AV1 (次世代高品質)。</string>
     <string name="guide_orientation_desc">録画されたビデオのアスペクト比を自動、ポートレート (垂直)、またはランドスケープ (水平) にロックします。</string>
     <string name="guide_resolution_desc">NATIVE は、画面の正確な解像度でキャプチャします。 4K、2K、FHD、HD、SD はキャプチャを標準サイズにロックします。</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">わかりました (%d)</string>
     <string name="dialog_auto_orientation_button">わかりました</string>
     <string name="dialog_overlay_permission_title">オーバーレイ許可が必要です</string>
-    <string name="dialog_overlay_permission_message">フローティング コントローラー バブルを表示するには、RecorderX に他のアプリの上に表示する権限が必要です。次の画面で許可してください。</string>
+    <string name="dialog_overlay_permission_message">フローティング コントローラー バブルを表示するには、RecorderZ に他のアプリの上に表示する権限が必要です。次の画面で許可してください。</string>
     <string name="btn_grant">グラント</string>
     <string name="btn_cancel">キャンセル</string>
     <string name="dialog_av1_software_title">⚠ AV1 ソフトウェアエンコーディング</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">システムのデフォルト</string>
     <string name="naming_template_helper">テンプレート ボックスに好みのプレフィックスを入力して、保存したビデオ タイトルをカスタマイズします。\n{timestamp} プレースホルダを追加して、すべてのファイルが日付順に整理されるようにします。\n無効な文字は自動的に削除され、空の場合はデフォルトできれいなタイムスタンプになります。\n形式: yyyyMMdd_HHmmss (例: 20260712_143000)。</string>
     <string name="onboarding_swipe_title">🎨 スワイプして色を変更</string>
-    <string name="onboarding_swipe_description">RecorderX タイトル領域上の任意の場所を左または右にスワイプして、12 個の豪華なテーマのアクセント カラーを切り替えます。</string>
+    <string name="onboarding_swipe_description">RecorderZ タイトル領域上の任意の場所を左または右にスワイプして、12 個の豪華なテーマのアクセント カラーを切り替えます。</string>
     <string name="btn_got_it">わかりました</string>
     <string name="camera_front">フロント</string>
     <string name="camera_back">戻る</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">レコーダーサービス</string>
     <string name="channel_recording_saved">録音が保存されました</string>
     <string name="notification_saved_title">録音が保存されました</string>
-    <string name="notification_saved_text">タップして /Movies/RecorderX で録画を表示します</string>
+    <string name="notification_saved_text">タップして /Movies/RecorderZ で録画を表示します</string>
     <string name="notification_action_delete">削除</string>
-    <string name="notification_active_title">RecorderX がアクティブです</string>
-    <string name="notification_paused_title">RecorderX が一時停止されています</string>
+    <string name="notification_active_title">RecorderZ がアクティブです</string>
+    <string name="notification_paused_title">RecorderZ が一時停止されています</string>
     <string name="notification_action_pause">録音を一時停止する</string>
     <string name="notification_action_resume">録音を再開する</string>
     <string name="notification_action_show">表示する</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">画面キャプチャの許可が拒否されました</string>
     <string name="toast_start_recorder_failed">レコーダーの起動に失敗しました</string>
     <string name="toast_copied_timestamp">{timestamp} をクリップボードにコピーしました</string>
-    <string name="toast_accessibility_permission_mic">RecorderX がマイクを制御するには、アクセシビリティ許可を有効にしてください</string>
-    <string name="toast_camera_permission_required">RecorderX でカメラのアクセス許可を付与してください</string>
-    <string name="toast_accessibility_permission_screenshot">スクリーンショットを撮るには RecorderX のアクセシビリティ権限を有効にしてください</string>
+    <string name="toast_accessibility_permission_mic">RecorderZ がマイクを制御するには、アクセシビリティ許可を有効にしてください</string>
+    <string name="toast_camera_permission_required">RecorderZ でカメラのアクセス許可を付与してください</string>
+    <string name="toast_accessibility_permission_screenshot">スクリーンショットを撮るには RecorderZ のアクセシビリティ権限を有効にしてください</string>
     <string name="toast_recording_deleted">録音が削除されました</string>
     <string name="toast_hardware_av1_not_found">ハードウェア AV1 が見つかりません。ソフトウェアAV1モードで録画中…</string>
     <string name="toast_codec_fallback">%1$s にはハードウェア エンコーダーがなく、代わりに %2$s で記録されます。</string>
     <string name="toast_hardware_overloaded">ハードウェアが過負荷になっています。自動ダウングレード中…</string>
-    <string name="toast_screenshot_saved">Pictures/RecorderX に保存されたスクリーンショット</string>
+    <string name="toast_screenshot_saved">Pictures/RecorderZ に保存されたスクリーンショット</string>
     <string name="accessibility_desc">ビデオキャプチャを中断せずに、画面録画セッション中にネイティブシステムのスクリーンショットをトリガーするためにのみ使用されます。</string>
     <string name="widget_quick_record_title">クイック録画</string>
     <string name="widget_control_center_title">コントロールセンター</string>

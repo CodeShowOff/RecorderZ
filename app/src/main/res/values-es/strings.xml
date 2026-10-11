@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">INICIAR GRABACIÓN</string>
     <string name="stop_recording">DETENER GRABACIÓN</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">DESLIZA AQUÍ</string>
     <string name="title_recorder">GRABADORA</string>
-    <string name="saved_in_path">Guardado en: /Películas/RecorderX</string>
+    <string name="saved_in_path">Guardado en: /Películas/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (más compatible con otros reproductores), H.265 (compresión altamente eficiente) o AV1 (alta calidad de próxima generación).</string>
     <string name="guide_orientation_desc">Bloquee las relaciones de aspecto del video grabado en Automático, Retrato (vertical) u Paisaje (horizontal).</string>
     <string name="guide_resolution_desc">NATIVO captura con la resolución exacta de su pantalla. Captura de bloqueo 4K, 2K, FHD, HD y SD en dimensiones estándar.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Entiendo (%d)</string>
     <string name="dialog_auto_orientation_button">yo entiendo</string>
     <string name="dialog_overlay_permission_title">Se requiere permiso de superposición</string>
-    <string name="dialog_overlay_permission_message">Para mostrar la burbuja del controlador flotante, RecorderX necesita permiso para mostrarse sobre otras aplicaciones. Por favor, concédelo en la siguiente pantalla.</string>
+    <string name="dialog_overlay_permission_message">Para mostrar la burbuja del controlador flotante, RecorderZ necesita permiso para mostrarse sobre otras aplicaciones. Por favor, concédelo en la siguiente pantalla.</string>
     <string name="btn_grant">subvención</string>
     <string name="btn_cancel">Cancelar</string>
     <string name="dialog_av1_software_title">⚠ Codificación de software AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Valor predeterminado del sistema</string>
     <string name="naming_template_helper">Escriba su prefijo preferido en el cuadro de plantilla para personalizar los títulos de sus videos guardados.\nAgregue el marcador de posición {timestamp} para asegurarse de que cada archivo esté organizado secuencialmente por fecha.\nLos caracteres no válidos se eliminan automáticamente y, de manera predeterminada, se usa una marca de tiempo limpia si está vacía.\nFormato: aaaaMMdd_HHmmss (por ejemplo, 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Desliza para cambiar el color</string>
-    <string name="onboarding_swipe_description">¡Desliza hacia la izquierda o hacia la derecha en cualquier lugar sobre el área de título de RecorderX para alternar entre 12 magníficos colores de acento del tema!</string>
+    <string name="onboarding_swipe_description">¡Desliza hacia la izquierda o hacia la derecha en cualquier lugar sobre el área de título de RecorderZ para alternar entre 12 magníficos colores de acento del tema!</string>
     <string name="btn_got_it">Lo tengo</string>
     <string name="camera_front">Frente</string>
     <string name="camera_back">Atrás</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Servicio de grabadora</string>
     <string name="channel_recording_saved">Grabación guardada</string>
     <string name="notification_saved_title">Grabación guardada</string>
-    <string name="notification_saved_text">Toque para ver su grabación en /Películas/RecorderX</string>
+    <string name="notification_saved_text">Toque para ver su grabación en /Películas/RecorderZ</string>
     <string name="notification_action_delete">Eliminar</string>
-    <string name="notification_active_title">RecorderX está activo</string>
-    <string name="notification_paused_title">RecorderX está en pausa</string>
+    <string name="notification_active_title">RecorderZ está activo</string>
+    <string name="notification_paused_title">RecorderZ está en pausa</string>
     <string name="notification_action_pause">Pausar grabación</string>
     <string name="notification_action_resume">Reanudar grabación</string>
     <string name="notification_action_show">Mostrar</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Permiso de captura de pantalla denegado</string>
     <string name="toast_start_recorder_failed">No se pudo iniciar la grabadora</string>
     <string name="toast_copied_timestamp">Copiado {timestamp} al portapapeles</string>
-    <string name="toast_accessibility_permission_mic">Habilite el permiso de accesibilidad para que RecorderX controle el micrófono.</string>
-    <string name="toast_camera_permission_required">Por favor, conceda permiso a la cámara en RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Habilite el permiso de accesibilidad para que RecorderX tome capturas de pantalla</string>
+    <string name="toast_accessibility_permission_mic">Habilite el permiso de accesibilidad para que RecorderZ controle el micrófono.</string>
+    <string name="toast_camera_permission_required">Por favor, conceda permiso a la cámara en RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Habilite el permiso de accesibilidad para que RecorderZ tome capturas de pantalla</string>
     <string name="toast_recording_deleted">Grabación eliminada</string>
     <string name="toast_hardware_av1_not_found">Hardware AV1 no encontrado. Grabando en modo Software AV1…</string>
     <string name="toast_codec_fallback">%1$s no tiene codificador de hardware aquí, sino que graba en %2$s.</string>
     <string name="toast_hardware_overloaded">Hardware sobrecargado. Degradación automática...</string>
-    <string name="toast_screenshot_saved">Captura de pantalla guardada en Imágenes/RecorderX</string>
+    <string name="toast_screenshot_saved">Captura de pantalla guardada en Imágenes/RecorderZ</string>
     <string name="accessibility_desc">Se utiliza únicamente para activar capturas de pantalla nativas del sistema durante las sesiones de grabación de pantalla sin interrumpir la captura de video.</string>
     <string name="widget_quick_record_title">Grabación rápida</string>
     <string name="widget_control_center_title">Centro de control</string>

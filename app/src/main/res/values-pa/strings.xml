@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰੋ</string>
     <string name="stop_recording">ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰੋ</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ਇੱਥੇ ਸਵਾਈਪ ਕਰੋ</string>
     <string name="title_recorder">ਰਿਕਾਰਡਰ</string>
-    <string name="saved_in_path">ਇਸ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ: /Movies/RecorderX</string>
+    <string name="saved_in_path">ਇਸ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (ਦੂਜੇ ਖਿਡਾਰੀਆਂ ਨਾਲ ਸਭ ਤੋਂ ਅਨੁਕੂਲ), H.265 (ਬਹੁਤ ਕੁਸ਼ਲ ਕੰਪਰੈਸ਼ਨ), ਜਾਂ AV1 (ਅਗਲੀ ਪੀੜ੍ਹੀ ਦੀ ਉੱਚ ਗੁਣਵੱਤਾ)।</string>
     <string name="guide_orientation_desc">ਰਿਕਾਰਡ ਕੀਤੇ ਵੀਡੀਓ ਪਹਿਲੂ ਅਨੁਪਾਤ ਨੂੰ ਆਟੋ, ਪੋਰਟਰੇਟ (ਲੰਬਕਾਰੀ), ਜਾਂ ਲੈਂਡਸਕੇਪ (ਲੇਟਵੀਂ) ਵਿੱਚ ਲਾਕ ਕਰੋ।</string>
     <string name="guide_resolution_desc">ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ ਦੇ ਸਹੀ ਰੈਜ਼ੋਲਿਊਸ਼ਨ \'ਤੇ ਨੇਟਿਵ ਕੈਪਚਰ। 4K, 2K, FHD, HD, ਅਤੇ SD ਲਾਕ ਕੈਪਚਰ ਨੂੰ ਮਿਆਰੀ ਮਾਪਾਂ ਤੱਕ।</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">ਮੈਂ ਸਮਝਦਾ ਹਾਂ (%d)</string>
     <string name="dialog_auto_orientation_button">ਮੈਂ ਸਮਝਦਾ ਹਾਂ</string>
     <string name="dialog_overlay_permission_title">ਓਵਰਲੇਅ ਅਨੁਮਤੀ ਦੀ ਲੋੜ ਹੈ</string>
-    <string name="dialog_overlay_permission_message">ਫਲੋਟਿੰਗ ਕੰਟਰੋਲਰ ਬਬਲ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ, RecorderX ਨੂੰ ਹੋਰ ਐਪਾਂ \'ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਅਗਲੀ ਸਕ੍ਰੀਨ \'ਤੇ ਦਿਓ।</string>
+    <string name="dialog_overlay_permission_message">ਫਲੋਟਿੰਗ ਕੰਟਰੋਲਰ ਬਬਲ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ, RecorderZ ਨੂੰ ਹੋਰ ਐਪਾਂ \'ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਅਗਲੀ ਸਕ੍ਰੀਨ \'ਤੇ ਦਿਓ।</string>
     <string name="btn_grant">ਗ੍ਰਾਂਟ</string>
     <string name="btn_cancel">ਰੱਦ ਕਰੋ</string>
     <string name="dialog_av1_software_title">⚠ AV1 ਸੌਫਟਵੇਅਰ ਏਨਕੋਡਿੰਗ</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">ਸਿਸਟਮ ਡਿਫੌਲਟ</string>
     <string name="naming_template_helper">ਆਪਣੇ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਵੀਡੀਓ ਸਿਰਲੇਖਾਂ ਨੂੰ ਨਿਜੀ ਬਣਾਉਣ ਲਈ ਟੈਮਪਲੇਟ ਬਾਕਸ ਵਿੱਚ ਆਪਣਾ ਤਰਜੀਹੀ ਅਗੇਤਰ ਟਾਈਪ ਕਰੋ।\nਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ {timestamp} ਪਲੇਸਹੋਲਡਰ ਸ਼ਾਮਲ ਕਰੋ ਕਿ ਹਰੇਕ ਫਾਈਲ ਨੂੰ ਮਿਤੀ ਅਨੁਸਾਰ ਕ੍ਰਮਵਾਰ ਵਿਵਸਥਿਤ ਕੀਤਾ ਗਿਆ ਹੈ।\nਖਾਲੀ ਹੋਣ \'ਤੇ ਇੱਕ ਕਲੀਨ ਟਾਈਮਸਟੈਂਪ ਨੂੰ ਡਿਫੌਲਟ ਕਰਕੇ, ਅਵੈਧ ਅੱਖਰ ਸਵੈਚਲਿਤ ਤੌਰ \'ਤੇ ਹਟਾ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ।\nFmmmmat 20260712_143000)।</string>
     <string name="onboarding_swipe_title">🎨 ਮੁੜ ਰੰਗਣ ਲਈ ਸਵਾਈਪ ਕਰੋ</string>
-    <string name="onboarding_swipe_description">12 ਸ਼ਾਨਦਾਰ ਥੀਮ ਐਕਸੈਂਟ ਰੰਗਾਂ ਦੇ ਵਿਚਕਾਰ ਚੱਕਰ ਲਗਾਉਣ ਲਈ RecorderX ਸਿਰਲੇਖ ਖੇਤਰ ਵਿੱਚ ਕਿਤੇ ਵੀ ਖੱਬੇ ਜਾਂ ਸੱਜੇ ਸਵਾਈਪ ਕਰੋ!</string>
+    <string name="onboarding_swipe_description">12 ਸ਼ਾਨਦਾਰ ਥੀਮ ਐਕਸੈਂਟ ਰੰਗਾਂ ਦੇ ਵਿਚਕਾਰ ਚੱਕਰ ਲਗਾਉਣ ਲਈ RecorderZ ਸਿਰਲੇਖ ਖੇਤਰ ਵਿੱਚ ਕਿਤੇ ਵੀ ਖੱਬੇ ਜਾਂ ਸੱਜੇ ਸਵਾਈਪ ਕਰੋ!</string>
     <string name="btn_got_it">ਸਮਝ ਲਿਆ</string>
     <string name="camera_front">ਸਾਹਮਣੇ</string>
     <string name="camera_back">ਵਾਪਸ</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">ਰਿਕਾਰਡਰ ਸੇਵਾ</string>
     <string name="channel_recording_saved">ਰਿਕਾਰਡਿੰਗ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ</string>
     <string name="notification_saved_title">ਰਿਕਾਰਡਿੰਗ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ</string>
-    <string name="notification_saved_text">/Movies/RecorderX ਵਿੱਚ ਆਪਣੀ ਰਿਕਾਰਡਿੰਗ ਦੇਖਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="notification_saved_text">/Movies/RecorderZ ਵਿੱਚ ਆਪਣੀ ਰਿਕਾਰਡਿੰਗ ਦੇਖਣ ਲਈ ਟੈਪ ਕਰੋ</string>
     <string name="notification_action_delete">ਮਿਟਾਓ</string>
-    <string name="notification_active_title">RecorderX ਸਰਗਰਮ ਹੈ</string>
-    <string name="notification_paused_title">RecorderX ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਹੈ</string>
+    <string name="notification_active_title">RecorderZ ਸਰਗਰਮ ਹੈ</string>
+    <string name="notification_paused_title">RecorderZ ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਹੈ</string>
     <string name="notification_action_pause">ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਰੋਕੋ</string>
     <string name="notification_action_resume">ਰਿਕਾਰਡਿੰਗ ਮੁੜ ਸ਼ੁਰੂ ਕਰੋ</string>
     <string name="notification_action_show">ਦਿਖਾਓ</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">ਸਕ੍ਰੀਨ ਕੈਪਚਰ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਅਸਵੀਕਾਰ ਕੀਤੀ ਗਈ</string>
     <string name="toast_start_recorder_failed">ਰਿਕਾਰਡਰ ਚਾਲੂ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
     <string name="toast_copied_timestamp">{timestamp} ਨੂੰ ਕਲਿੱਪਬੋਰਡ \'ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
-    <string name="toast_accessibility_permission_mic">ਕਿਰਪਾ ਕਰਕੇ ਮਾਈਕ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ RecorderX ਲਈ ਪਹੁੰਚਯੋਗਤਾ ਅਨੁਮਤੀ ਚਾਲੂ ਕਰੋ</string>
-    <string name="toast_camera_permission_required">ਕਿਰਪਾ ਕਰਕੇ RecorderX ਵਿੱਚ ਕੈਮਰੇ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ</string>
-    <string name="toast_accessibility_permission_screenshot">ਕਿਰਪਾ ਕਰਕੇ ਸਕ੍ਰੀਨਸ਼ਾਟ ਲੈਣ ਲਈ RecorderX ਲਈ ਪਹੁੰਚਯੋਗਤਾ ਅਨੁਮਤੀ ਨੂੰ ਚਾਲੂ ਕਰੋ</string>
+    <string name="toast_accessibility_permission_mic">ਕਿਰਪਾ ਕਰਕੇ ਮਾਈਕ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ RecorderZ ਲਈ ਪਹੁੰਚਯੋਗਤਾ ਅਨੁਮਤੀ ਚਾਲੂ ਕਰੋ</string>
+    <string name="toast_camera_permission_required">ਕਿਰਪਾ ਕਰਕੇ RecorderZ ਵਿੱਚ ਕੈਮਰੇ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="toast_accessibility_permission_screenshot">ਕਿਰਪਾ ਕਰਕੇ ਸਕ੍ਰੀਨਸ਼ਾਟ ਲੈਣ ਲਈ RecorderZ ਲਈ ਪਹੁੰਚਯੋਗਤਾ ਅਨੁਮਤੀ ਨੂੰ ਚਾਲੂ ਕਰੋ</string>
     <string name="toast_recording_deleted">ਰਿਕਾਰਡਿੰਗ ਮਿਟਾਈ ਗਈ</string>
     <string name="toast_hardware_av1_not_found">ਹਾਰਡਵੇਅਰ AV1 ਨਹੀਂ ਮਿਲਿਆ। ਸੌਫਟਵੇਅਰ AV1 ਮੋਡ ਵਿੱਚ ਰਿਕਾਰਡਿੰਗ...</string>
     <string name="toast_codec_fallback">%1$s ਇੱਥੇ ਕੋਈ ਹਾਰਡਵੇਅਰ ਏਨਕੋਡਰ ਨਹੀਂ ਹੈ, ਇਸਦੀ ਬਜਾਏ %2$s ਵਿੱਚ ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।</string>
     <string name="toast_hardware_overloaded">ਹਾਰਡਵੇਅਰ ਓਵਰਲੋਡ ਹੋਇਆ। ਸਵੈ-ਡਾਊਨਗ੍ਰੇਡਿੰਗ...</string>
-    <string name="toast_screenshot_saved">ਸਕਰੀਨਸ਼ਾਟ Pictures/RecorderX ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ</string>
+    <string name="toast_screenshot_saved">ਸਕਰੀਨਸ਼ਾਟ Pictures/RecorderZ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ</string>
     <string name="accessibility_desc">ਵੀਡੀਓ ਕੈਪਚਰ ਵਿੱਚ ਰੁਕਾਵਟ ਦੇ ਬਿਨਾਂ ਸਕ੍ਰੀਨ ਰਿਕਾਰਡਿੰਗ ਸੈਸ਼ਨਾਂ ਦੌਰਾਨ ਮੂਲ ਸਿਸਟਮ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨੂੰ ਟ੍ਰਿਗਰ ਕਰਨ ਲਈ ਪੂਰੀ ਤਰ੍ਹਾਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।</string>
     <string name="widget_quick_record_title">ਤੁਰੰਤ ਰਿਕਾਰਡ</string>
     <string name="widget_control_center_title">ਕੰਟਰੋਲ ਕੇਂਦਰ</string>

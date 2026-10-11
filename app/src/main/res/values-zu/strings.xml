@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">QALA UKUREKHODA</string>
     <string name="stop_recording">DUMISA UKUREKHODA</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWAYIPHA LAPHA</string>
     <string name="title_recorder">IREKHODI</string>
-    <string name="saved_in_path">Kulondolozwe ku: /Movies/RecorderX</string>
+    <string name="saved_in_path">Kulondolozwe ku: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">I-H.264 (Ihambisana kakhulu nabanye abadlali), i-H.265 (Ukuminyanisa okusebenza kahle kakhulu), noma i-AV1 (Ikhwalithi ephezulu yesizukulwane esilandelayo).</string>
     <string name="guide_orientation_desc">Khiya izilinganiso zokubukeka kwevidiyo erekhodiwe ukuze kube Okuzenzakalelayo, Ukuma ngobude (okuqondile), noma Ukwakheka kwezwe (okuvundlile).</string>
     <string name="guide_resolution_desc">I-NATIVE ithwebula ngokulungiswa okunembile kwesikrini sakho. I-4K, 2K, FHD, HD, kanye nokuthwebula ukhiye we-SD kuya kubukhulu obujwayelekile.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Ngiyaqonda (%d)</string>
     <string name="dialog_auto_orientation_button">Ngiyaqonda</string>
     <string name="dialog_overlay_permission_title">Kudingeka Imvume Yembondela</string>
-    <string name="dialog_overlay_permission_message">Ukuze ubonise ibhamuza lesilawuli esintantayo, i-RecorderX idinga imvume yokubonisa phezu kwezinye izinhlelo zokusebenza. Sicela unikeze esikrinini esilandelayo.</string>
+    <string name="dialog_overlay_permission_message">Ukuze ubonise ibhamuza lesilawuli esintantayo, i-RecorderZ idinga imvume yokubonisa phezu kwezinye izinhlelo zokusebenza. Sicela unikeze esikrinini esilandelayo.</string>
     <string name="btn_grant">Nika imvume</string>
     <string name="btn_cancel">Khansela</string>
     <string name="dialog_av1_software_title">⚠ I-AV1 Umbhalo Wekhodi Wesofthiwe</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Okuzenzakalelayo Kwesistimu</string>
     <string name="naming_template_helper">Thayipha isiqalo osithandayo ebhokisini lesifanekiso ukuze wenze ngezifiso izihloko zevidiyo zakho ezilondoloziwe.\nEngeza isimeli se-{timestamp} ukuze uqinisekise ukuthi ifayela ngalinye lihlelwa ngokulandelana ngedethi.\nIzinhlamvu ezingavumelekile zihlutshulwa ngokuzenzekelayo, okuzenzakalelayo kube isitembu sesikhathi esihlanzekile uma singenalutho.\nFometha: yyyyMMdd_Hmms. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Swayipha ukuze Ufake Umbala Kabusha</string>
-    <string name="onboarding_swipe_description">Swayiphela kwesokunxele noma kwesokudla noma yikuphi endaweni yesihloko se-RecorderX ukuze ujikeleze phakathi kwemibala ye-accent yetimu engu-12 emihle!</string>
+    <string name="onboarding_swipe_description">Swayiphela kwesokunxele noma kwesokudla noma yikuphi endaweni yesihloko se-RecorderZ ukuze ujikeleze phakathi kwemibala ye-accent yetimu engu-12 emihle!</string>
     <string name="btn_got_it">Ngiyitholile</string>
     <string name="camera_front">Ngaphambili</string>
     <string name="camera_back">Emuva</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Isevisi Yerekhoda</string>
     <string name="channel_recording_saved">Ukurekhoda Kulondoloziwe</string>
     <string name="notification_saved_title">Ukurekhoda Kulondoloziwe</string>
-    <string name="notification_saved_text">Thinta ukuze ubuke okuqoshiwe kwakho ku-/Movies/RecorderX</string>
+    <string name="notification_saved_text">Thinta ukuze ubuke okuqoshiwe kwakho ku-/Movies/RecorderZ</string>
     <string name="notification_action_delete">Sula</string>
-    <string name="notification_active_title">I-RecorderX iyasebenza</string>
-    <string name="notification_paused_title">I-RecorderX imisiwe</string>
+    <string name="notification_active_title">I-RecorderZ iyasebenza</string>
+    <string name="notification_paused_title">I-RecorderZ imisiwe</string>
     <string name="notification_action_pause">Misa Ukurekhoda</string>
     <string name="notification_action_resume">Qhubeka Nokurekhoda</string>
     <string name="notification_action_show">Show</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Imvume yokuthwebula isikrini inqatshiwe</string>
     <string name="toast_start_recorder_failed">Kwehlulekile ukuqala irekhoda</string>
     <string name="toast_copied_timestamp">Kukopishelwe {timestamp} ebhodini lokunamathisela</string>
-    <string name="toast_accessibility_permission_mic">Sicela unike amandla imvume Yokufinyeleleka ye-RecorderX ukuze ulawule umakrofoni</string>
-    <string name="toast_camera_permission_required">Sicela unikeze imvume Yekhamera ku-RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Sicela unike amandla imvume Yokufinyeleleka ye-RecorderX ukuze uthwebule isikrini</string>
+    <string name="toast_accessibility_permission_mic">Sicela unike amandla imvume Yokufinyeleleka ye-RecorderZ ukuze ulawule umakrofoni</string>
+    <string name="toast_camera_permission_required">Sicela unikeze imvume Yekhamera ku-RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Sicela unike amandla imvume Yokufinyeleleka ye-RecorderZ ukuze uthwebule isikrini</string>
     <string name="toast_recording_deleted">Ukurekhoda kucishiwe</string>
     <string name="toast_hardware_av1_not_found">I-Hardware AV1 ayitholakali. Kurekhodwa kumodi ye-Software AV1…</string>
     <string name="toast_codec_fallback">I-%1$s ayinayo i-encoder yehadiwe lapha, kurekhodwa ku-%2$s esikhundleni salokho.</string>
     <string name="toast_hardware_overloaded">I-hardware igcwele kakhulu. Yehlisa ikhwalithi ngokuzenzakalela…</string>
-    <string name="toast_screenshot_saved">Isithombe-skrini silondolozwe ku-Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Isithombe-skrini silondolozwe ku-Pictures/RecorderZ</string>
     <string name="accessibility_desc">Isetshenziselwa kuphela ukuthwebula izithombe-skrini zesistimu yomdabu ngesikhathi samaseshini wokurekhoda isikrini ngaphandle kokuphazamisa ividiyo.</string>
     <string name="widget_quick_record_title">Ukurekhoda Okusheshayo</string>
     <string name="widget_control_center_title">Isikhungo Sokulawula</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">റെക്കോർഡിംഗ് ആരംഭിക്കുക</string>
     <string name="stop_recording">റെക്കോർഡിംഗ് നിർത്തുക</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ഇവിടെ സ്വൈപ്പ് ചെയ്യുക</string>
     <string name="title_recorder">റെക്കോർഡർ</string>
-    <string name="saved_in_path">ഇതിൽ സംരക്ഷിച്ചു: /Movies/RecorderX</string>
+    <string name="saved_in_path">ഇതിൽ സംരക്ഷിച്ചു: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (മറ്റ് കളിക്കാരുമായി ഏറ്റവും അനുയോജ്യം), H.265 (ഉയർന്ന കാര്യക്ഷമമായ കംപ്രഷൻ), അല്ലെങ്കിൽ AV1 (അടുത്ത തലമുറയിലെ ഉയർന്ന നിലവാരം).</string>
     <string name="guide_orientation_desc">സ്വയമേവ, പോർട്രെയ്‌റ്റ് (ലംബം), അല്ലെങ്കിൽ ലാൻഡ്‌സ്‌കേപ്പ് (തിരശ്ചീനം) എന്നിവയിലേക്കുള്ള റെക്കോർഡ് ചെയ്‌ത വീഡിയോ വീക്ഷണ അനുപാതങ്ങൾ ലോക്ക് ചെയ്യുക.</string>
     <string name="guide_resolution_desc">നിങ്ങളുടെ സ്‌ക്രീനിൻ്റെ കൃത്യമായ റെസല്യൂഷനിൽ നേറ്റീവ് ക്യാപ്‌ചർ ചെയ്യുന്നു. സ്റ്റാൻഡേർഡ് അളവുകളിലേക്ക് 4K, 2K, FHD, HD, SD ലോക്ക് ക്യാപ്‌ചർ.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">ഞാൻ മനസ്സിലാക്കുന്നു (%d)</string>
     <string name="dialog_auto_orientation_button">ഞാൻ മനസ്സിലാക്കുന്നു</string>
     <string name="dialog_overlay_permission_title">ഓവർലേ അനുമതി ആവശ്യമാണ്</string>
-    <string name="dialog_overlay_permission_message">ഫ്ലോട്ടിംഗ് കൺട്രോളർ ബബിൾ പ്രദർശിപ്പിക്കാൻ, മറ്റ് ആപ്പുകളിൽ പ്രദർശിപ്പിക്കാൻ RecorderX-ന് അനുമതി ആവശ്യമാണ്. ദയവായി അത് അടുത്ത സ്ക്രീനിൽ അനുവദിക്കുക.</string>
+    <string name="dialog_overlay_permission_message">ഫ്ലോട്ടിംഗ് കൺട്രോളർ ബബിൾ പ്രദർശിപ്പിക്കാൻ, മറ്റ് ആപ്പുകളിൽ പ്രദർശിപ്പിക്കാൻ RecorderZ-ന് അനുമതി ആവശ്യമാണ്. ദയവായി അത് അടുത്ത സ്ക്രീനിൽ അനുവദിക്കുക.</string>
     <string name="btn_grant">ഗ്രാൻ്റ്</string>
     <string name="btn_cancel">റദ്ദാക്കുക</string>
     <string name="dialog_av1_software_title">⚠ AV1 സോഫ്റ്റ്‌വെയർ എൻകോഡിംഗ്</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">സിസ്റ്റം ഡിഫോൾട്ട്</string>
     <string name="naming_template_helper">നിങ്ങളുടെ സംരക്ഷിച്ച വീഡിയോ ശീർഷകങ്ങൾ വ്യക്തിപരമാക്കാൻ ടെംപ്ലേറ്റ് ബോക്സിൽ നിങ്ങളുടെ ഇഷ്ടപ്പെട്ട പ്രിഫിക്‌സ് ടൈപ്പ് ചെയ്യുക.\nഎല്ലാ ഫയലുകളും തീയതി പ്രകാരം ക്രമീകരിച്ചിട്ടുണ്ടെന്ന് ഉറപ്പാക്കാൻ {timestamp} പ്ലെയ്‌സ്‌ഹോൾഡർ ചേർക്കുക.\nഅസാധുവായ പ്രതീകങ്ങൾ സ്വയമേവ നീക്കം ചെയ്യപ്പെടുകയും സ്ഥിരസ്ഥിതിയായി ഒരു ക്ലീൻ ടൈംസ്റ്റാമ്പിലേക്ക് മാറുകയും ചെയ്യുന്നു.\nHmm.Mgs ഫോർമാറ്റ് ശൂന്യമാണെങ്കിൽ 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 റീകോളറിലേക്ക് സ്വൈപ്പ് ചെയ്യുക</string>
-    <string name="onboarding_swipe_description">12 അതിമനോഹരമായ തീം ആക്സൻ്റ് നിറങ്ങൾക്കിടയിൽ സൈക്കിൾ ചെയ്യാൻ RecorderX ടൈറ്റിൽ ഏരിയയിൽ എവിടെയും ഇടത്തോട്ടോ വലത്തോട്ടോ സ്വൈപ്പ് ചെയ്യുക!</string>
+    <string name="onboarding_swipe_description">12 അതിമനോഹരമായ തീം ആക്സൻ്റ് നിറങ്ങൾക്കിടയിൽ സൈക്കിൾ ചെയ്യാൻ RecorderZ ടൈറ്റിൽ ഏരിയയിൽ എവിടെയും ഇടത്തോട്ടോ വലത്തോട്ടോ സ്വൈപ്പ് ചെയ്യുക!</string>
     <string name="btn_got_it">മനസ്സിലായി</string>
     <string name="camera_front">ഫ്രണ്ട്</string>
     <string name="camera_back">തിരികെ</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">റെക്കോർഡർ സേവനം</string>
     <string name="channel_recording_saved">റെക്കോർഡിംഗ് സംരക്ഷിച്ചു</string>
     <string name="notification_saved_title">റെക്കോർഡിംഗ് സംരക്ഷിച്ചു</string>
-    <string name="notification_saved_text">/Movies/RecorderX-ൽ നിങ്ങളുടെ റെക്കോർഡിംഗ് കാണാൻ ടാപ്പ് ചെയ്യുക</string>
+    <string name="notification_saved_text">/Movies/RecorderZ-ൽ നിങ്ങളുടെ റെക്കോർഡിംഗ് കാണാൻ ടാപ്പ് ചെയ്യുക</string>
     <string name="notification_action_delete">ഇല്ലാതാക്കുക</string>
-    <string name="notification_active_title">RecorderX സജീവമാണ്</string>
-    <string name="notification_paused_title">RecorderX താൽക്കാലികമായി നിർത്തി</string>
+    <string name="notification_active_title">RecorderZ സജീവമാണ്</string>
+    <string name="notification_paused_title">RecorderZ താൽക്കാലികമായി നിർത്തി</string>
     <string name="notification_action_pause">റെക്കോർഡിംഗ് താൽക്കാലികമായി നിർത്തുക</string>
     <string name="notification_action_resume">റെക്കോർഡിംഗ് പുനരാരംഭിക്കുക</string>
     <string name="notification_action_show">കാണിക്കുക</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">സ്‌ക്രീൻ ക്യാപ്‌ചർ അനുമതി നിരസിച്ചു</string>
     <string name="toast_start_recorder_failed">റെക്കോർഡർ ആരംഭിക്കുന്നതിൽ പരാജയപ്പെട്ടു</string>
     <string name="toast_copied_timestamp">{timestamp} ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
-    <string name="toast_accessibility_permission_mic">മൈക്ക് നിയന്ത്രിക്കാൻ RecorderX-ന് പ്രവേശനക്ഷമത അനുമതി പ്രവർത്തനക്ഷമമാക്കുക</string>
-    <string name="toast_camera_permission_required">RecorderX-ൽ ക്യാമറ അനുമതി നൽകുക</string>
-    <string name="toast_accessibility_permission_screenshot">സ്ക്രീൻഷോട്ടുകൾ എടുക്കാൻ RecorderX-ന് പ്രവേശനക്ഷമത അനുമതി പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="toast_accessibility_permission_mic">മൈക്ക് നിയന്ത്രിക്കാൻ RecorderZ-ന് പ്രവേശനക്ഷമത അനുമതി പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="toast_camera_permission_required">RecorderZ-ൽ ക്യാമറ അനുമതി നൽകുക</string>
+    <string name="toast_accessibility_permission_screenshot">സ്ക്രീൻഷോട്ടുകൾ എടുക്കാൻ RecorderZ-ന് പ്രവേശനക്ഷമത അനുമതി പ്രവർത്തനക്ഷമമാക്കുക</string>
     <string name="toast_recording_deleted">റെക്കോർഡിംഗ് ഇല്ലാതാക്കി</string>
     <string name="toast_hardware_av1_not_found">ഹാർഡ്‌വെയർ AV1 കണ്ടെത്തിയില്ല. സോഫ്റ്റ്‌വെയർ AV1 മോഡിൽ റെക്കോർഡ് ചെയ്യുന്നു...</string>
     <string name="toast_codec_fallback">%1$s-ന് ഇവിടെ ഹാർഡ്‌വെയർ എൻകോഡർ ഇല്ല, പകരം %2$s-ൽ റെക്കോർഡ് ചെയ്യുന്നു.</string>
     <string name="toast_hardware_overloaded">ഹാർഡ്‌വെയർ ഓവർലോഡ് ചെയ്തു. സ്വയമേവ തരംതാഴ്ത്തുന്നു...</string>
-    <string name="toast_screenshot_saved">സ്ക്രീൻഷോട്ട് Pictures/RecorderX-ലേക്ക് സംരക്ഷിച്ചു</string>
+    <string name="toast_screenshot_saved">സ്ക്രീൻഷോട്ട് Pictures/RecorderZ-ലേക്ക് സംരക്ഷിച്ചു</string>
     <string name="accessibility_desc">വീഡിയോ ക്യാപ്‌ചർ തടസ്സപ്പെടുത്താതെ സ്‌ക്രീൻ റെക്കോർഡിംഗ് സെഷനുകളിൽ നേറ്റീവ് സിസ്റ്റം സ്‌ക്രീൻഷോട്ടുകൾ ട്രിഗർ ചെയ്യാൻ മാത്രം ഉപയോഗിക്കുന്നു.</string>
     <string name="widget_quick_record_title">ദ്രുത റെക്കോർഡ്</string>
     <string name="widget_control_center_title">നിയന്ത്രണ കേന്ദ്രം</string>

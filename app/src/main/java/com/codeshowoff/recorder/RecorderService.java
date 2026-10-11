@@ -21,7 +21,7 @@ import androidx.core.content.FileProvider;
 import java.io.File;
 
 public class RecorderService extends Service {
-    private static final String TAG = "RecorderX_Service";
+    private static final String TAG = "RecorderZ_Service";
     private static final int NOTIFICATION_ID = 1;
     private static final int SAVED_NOTIFICATION_ID = 2;
     private static final String CHANNEL_ID = "recorder_channel";
@@ -57,7 +57,7 @@ public class RecorderService extends Service {
             try {
                 android.os.PowerManager pm = (android.os.PowerManager) getSystemService(Context.POWER_SERVICE);
                 if (pm != null) {
-                    wakeLock = pm.newWakeLock(android.os.PowerManager.SCREEN_BRIGHT_WAKE_LOCK | android.os.PowerManager.ON_AFTER_RELEASE, "RecorderX:ScreenWakeLock");
+                    wakeLock = pm.newWakeLock(android.os.PowerManager.SCREEN_BRIGHT_WAKE_LOCK | android.os.PowerManager.ON_AFTER_RELEASE, "RecorderZ:ScreenWakeLock");
                     wakeLock.acquire(10 * 60 * 60 * 1000L);
                     Log.d(TAG, "Screen WakeLock acquired successfully.");
                 }

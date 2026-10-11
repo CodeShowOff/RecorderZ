@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">START OPNOME</string>
     <string name="stop_recording">STOP OPNOME</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">SWIPE HIER</string>
     <string name="title_recorder">OPNAME</string>
-    <string name="saved_in_path">Opgeslagen in: /Films/RecorderX</string>
+    <string name="saved_in_path">Opgeslagen in: /Films/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (meest compatibel met andere spelers), H.265 (zeer efficiënte compressie) of AV1 (hoge kwaliteit van de volgende generatie).</string>
     <string name="guide_orientation_desc">Vergrendel de beeldverhoudingen van opgenomen video\'s naar Automatisch, Portret (verticaal) of Landschap (horizontaal).</string>
     <string name="guide_resolution_desc">NATIVE neemt op met de exacte resolutie van uw scherm. 4K, 2K, FHD, HD en SD vergrendelen vastleggen naar standaardafmetingen.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Ik begrijp het (%d)</string>
     <string name="dialog_auto_orientation_button">Ik begrijp het</string>
     <string name="dialog_overlay_permission_title">Overlay-toestemming vereist</string>
-    <string name="dialog_overlay_permission_message">Om de zwevende controllerbubbel weer te geven, heeft RecorderX toestemming nodig om over andere apps heen weer te geven. Geef deze toestemming op het volgende scherm.</string>
+    <string name="dialog_overlay_permission_message">Om de zwevende controllerbubbel weer te geven, heeft RecorderZ toestemming nodig om over andere apps heen weer te geven. Geef deze toestemming op het volgende scherm.</string>
     <string name="btn_grant">Verleen</string>
     <string name="btn_cancel">Annuleer</string>
     <string name="dialog_av1_software_title">⚠ AV1-softwarecodering</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Systeemstandaard</string>
     <string name="naming_template_helper">Typ het voorvoegsel van uw voorkeur in het sjabloonvak om uw opgeslagen videotitels te personaliseren.\nVoeg de tijdelijke aanduiding {timestamp} toe om ervoor te zorgen dat elk bestand opeenvolgend op datum wordt geordend.\nOngeldige tekens worden automatisch verwijderd en krijgen standaard een schone tijdstempel als ze leeg zijn.\nFormaat: jjjjMMdd_HHmmss (bijvoorbeeld 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Veeg naar Opnieuw kleuren</string>
-    <string name="onboarding_swipe_description">Veeg ergens naar links of rechts over het RecorderX-titelgebied om te schakelen tussen 12 prachtige thema-accentkleuren!</string>
+    <string name="onboarding_swipe_description">Veeg ergens naar links of rechts over het RecorderZ-titelgebied om te schakelen tussen 12 prachtige thema-accentkleuren!</string>
     <string name="btn_got_it">Ik heb het</string>
     <string name="camera_front">Voorkant</string>
     <string name="camera_back">Terug</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Recorderservice</string>
     <string name="channel_recording_saved">Opname opgeslagen</string>
     <string name="notification_saved_title">Opname opgeslagen</string>
-    <string name="notification_saved_text">Tik om uw opname te bekijken in /Movies/RecorderX</string>
+    <string name="notification_saved_text">Tik om uw opname te bekijken in /Movies/RecorderZ</string>
     <string name="notification_action_delete">Verwijderen</string>
-    <string name="notification_active_title">RecorderX is actief</string>
-    <string name="notification_paused_title">RecorderX is gepauzeerd</string>
+    <string name="notification_active_title">RecorderZ is actief</string>
+    <string name="notification_paused_title">RecorderZ is gepauzeerd</string>
     <string name="notification_action_pause">Pauzeer de opname</string>
     <string name="notification_action_resume">Hervat de opname</string>
     <string name="notification_action_show">Toon</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">Toestemming voor schermopname geweigerd</string>
     <string name="toast_start_recorder_failed">Kan de recorder niet starten</string>
     <string name="toast_copied_timestamp">{timestamp} naar klembord gekopieerd</string>
-    <string name="toast_accessibility_permission_mic">Schakel de toegankelijkheidstoestemming in zodat RecorderX de microfoon kan bedienen</string>
-    <string name="toast_camera_permission_required">Geef cameratoestemming in RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Schakel de toegankelijkheidstoestemming in zodat RecorderX schermafbeeldingen kan maken</string>
+    <string name="toast_accessibility_permission_mic">Schakel de toegankelijkheidstoestemming in zodat RecorderZ de microfoon kan bedienen</string>
+    <string name="toast_camera_permission_required">Geef cameratoestemming in RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Schakel de toegankelijkheidstoestemming in zodat RecorderZ schermafbeeldingen kan maken</string>
     <string name="toast_recording_deleted">Opname verwijderd</string>
     <string name="toast_hardware_av1_not_found">Hardware AV1 niet gevonden. Opnemen in Software AV1-modus…</string>
     <string name="toast_codec_fallback">%1$s heeft hier geen hardware-encoder, maar neemt in plaats daarvan op in %2$s.</string>
     <string name="toast_hardware_overloaded">Hardware overbelast. Automatisch downgraden…</string>
-    <string name="toast_screenshot_saved">Schermafbeelding opgeslagen in Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Schermafbeelding opgeslagen in Pictures/RecorderZ</string>
     <string name="accessibility_desc">Wordt uitsluitend gebruikt om native systeemscreenshots te activeren tijdens schermopnamesessies zonder de video-opname te onderbreken.</string>
     <string name="widget_quick_record_title">Snelle opname</string>
     <string name="widget_control_center_title">Bedieningspaneel</string>

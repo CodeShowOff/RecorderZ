@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">DEST PÊKIRINA TOMARKIRINÊ</string>
     <string name="stop_recording">WESTANDINA TOMARKIRINÊ</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">LI VIR BIKIN</string>
     <string name="title_recorder">TOMARKER</string>
-    <string name="saved_in_path">Li: /Fîlm/RecorderX hatiye tomarkirin</string>
+    <string name="saved_in_path">Li: /Fîlm/RecorderZ hatiye tomarkirin</string>
     <string name="guide_codec_desc">H.264 (Piraniya bi lîstikvanên din re lihevhatî), H.265 (Pêşkêşkirina pir bikêrhatî), an AV1 (Nifşa pêş-kalîteya bilind).</string>
     <string name="guide_orientation_desc">Rêjeyên dîmendera vîdyoya tomarkirî li Otomotîk, Portrait (vertikal), an Pergalê (horizontal) kilît bikin.</string>
     <string name="guide_resolution_desc">NATIVE bi çareseriya tam a dîmendera we digire. Girtina 4K, 2K, FHD, HD, û SD bi pîvanên standard.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Ez fêm dikim (%d)</string>
     <string name="dialog_auto_orientation_button">Ez fêm dikim</string>
     <string name="dialog_overlay_permission_title">Destûra Overlay Pêdivî ye</string>
-    <string name="dialog_overlay_permission_message">Ji bo nîşankirina bilbila kontrolkerê herikîn, RecorderX destûr hewce dike ku li ser sepanên din nîşan bide. Ji kerema xwe wê li ser ekrana paşîn bidin.</string>
+    <string name="dialog_overlay_permission_message">Ji bo nîşankirina bilbila kontrolkerê herikîn, RecorderZ destûr hewce dike ku li ser sepanên din nîşan bide. Ji kerema xwe wê li ser ekrana paşîn bidin.</string>
     <string name="btn_grant">Destûr bide</string>
     <string name="btn_cancel">Betal bike</string>
     <string name="dialog_av1_software_title">⚠ Şîfrekirina Nermalava AV1</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">Standardê Pergalê</string>
     <string name="naming_template_helper">Pêşgira xweya bijarte di qutiya şablonê de binivîsin da ku sernavên vîdyoya xweya tomarkirî kesane bikin.\nCihgira {timestamp} lê zêde bikin da ku her pel li gorî mêjûyê li pey hev hatine organîzekirin.\nKarekterên nederbasdar bixweber têne hilanîn, heke vala vala bibe nîşana demjimêrek paqij vedigire.\nFormat: yyyymmdsd_eH. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Swipe bo Recolor</string>
-    <string name="onboarding_swipe_description">Li ser qada sernavê RecorderX li her deverek çep an rast bizivirin da ku di navbera 12 rengên devoka mijarê yên spehî de bizivirin!</string>
+    <string name="onboarding_swipe_description">Li ser qada sernavê RecorderZ li her deverek çep an rast bizivirin da ku di navbera 12 rengên devoka mijarê yên spehî de bizivirin!</string>
     <string name="btn_got_it">Fêm kir</string>
     <string name="camera_front">Pêşî</string>
     <string name="camera_back">Vegere</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">Xizmeta Tomarkirinê</string>
     <string name="channel_recording_saved">Tomar hate tomarkirin</string>
     <string name="notification_saved_title">Tomar hate tomarkirin</string>
-    <string name="notification_saved_text">Ji bo dîtina tomarkirina xwe li /Movies/RecorderX bitikîne</string>
+    <string name="notification_saved_text">Ji bo dîtina tomarkirina xwe li /Movies/RecorderZ bitikîne</string>
     <string name="notification_action_delete">Rake</string>
-    <string name="notification_active_title">RecorderX çalak e</string>
-    <string name="notification_paused_title">RecorderX hate rawestandin</string>
+    <string name="notification_active_title">RecorderZ çalak e</string>
+    <string name="notification_paused_title">RecorderZ hate rawestandin</string>
     <string name="notification_action_pause">Tomarkirinê rawestîne</string>
     <string name="notification_action_resume">Tomarkirinê bidomîne</string>
     <string name="notification_action_show">Nîşan bide</string>
@@ -131,13 +131,13 @@
     <string name="toast_start_recorder_failed">Destpêkirina tomarkirinê biserneket</string>
     <string name="toast_copied_timestamp">{timestamp} li klîpboardê hate kopîkirin</string>
     <string name="toast_accessibility_permission_mic">Ji kerema xwe destûra gihîştinê ji bo kontrolkirina mîkrofonê çalak bike</string>
-    <string name="toast_camera_permission_required">Ji kerema xwe destûra kamerayê li RecorderX bide</string>
+    <string name="toast_camera_permission_required">Ji kerema xwe destûra kamerayê li RecorderZ bide</string>
     <string name="toast_accessibility_permission_screenshot">Ji kerema xwe destûra gihîştinê ji bo kişandina dîmenan çalak bike</string>
     <string name="toast_recording_deleted">Tomar hate jêbirin</string>
     <string name="toast_hardware_av1_not_found">Hardware AV1 nehate dîtin. Di moda Software AV1 de tê tomarkirin…</string>
     <string name="toast_codec_fallback">Li vir kodkera hardware ya %1$s tune ye, li şûna wê di %2$s de tê tomarkirin.</string>
     <string name="toast_hardware_overloaded">Hardware zêde barkirî ye. Bi xweber kêm dibe…</string>
-    <string name="toast_screenshot_saved">Wêneya ekranê li Pictures/RecorderX hate tomarkirin</string>
+    <string name="toast_screenshot_saved">Wêneya ekranê li Pictures/RecorderZ hate tomarkirin</string>
     <string name="accessibility_desc">Tenê ji bo kişandina dîmenên xwemalî yên pergalê di dema danişînên tomarkirina ekranê de bêyî qutkirina tomarkirina vîdyoyê tê bikar anîn.</string>
     <string name="widget_quick_record_title">Tomara Bilez</string>
     <string name="widget_control_center_title">Navenda Kontrolê</string>

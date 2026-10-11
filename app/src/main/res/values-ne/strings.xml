@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">रेकर्डिङ सुरु गर्नुहोस्</string>
     <string name="stop_recording">रेकर्डिङ रोक्नुहोस्</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">यहाँ स्वाइप गर्नुहोस्</string>
     <string name="title_recorder">रेकर्डर</string>
-    <string name="saved_in_path">मा सुरक्षित गरिएको: /Movies/RecorderX</string>
+    <string name="saved_in_path">मा सुरक्षित गरिएको: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (अन्य खेलाडीहरूसँग सबैभन्दा उपयुक्त), H.265 (अत्यधिक कुशल कम्प्रेसन), वा AV1 (अर्को पुस्ता उच्च गुणस्तर)।</string>
     <string name="guide_orientation_desc">रेकर्ड गरिएको भिडियो एस्पेक्ट रेसियोलाई अटो, पोर्ट्रेट (ठाडो), वा ल्यान्डस्केप (तेर्सो) मा लक गर्नुहोस्।</string>
     <string name="guide_resolution_desc">तपाईंको स्क्रिनको सटीक रिजोल्युसनमा NATIVE क्याप्चरहरू। 4K, 2K, FHD, HD, र SD लक मानक आयामहरूमा खिच्नुहोस्।</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">मैले बुझें (%d)</string>
     <string name="dialog_auto_orientation_button">मैले बुझें</string>
     <string name="dialog_overlay_permission_title">ओभरले अनुमति आवश्यक छ</string>
-    <string name="dialog_overlay_permission_message">फ्लोटिंग कन्ट्रोलर बबल प्रदर्शन गर्न, RecorderX लाई अन्य एपहरूमा प्रदर्शन गर्न अनुमति चाहिन्छ। कृपया यसलाई अर्को स्क्रिनमा दिनुहोस्।</string>
+    <string name="dialog_overlay_permission_message">फ्लोटिंग कन्ट्रोलर बबल प्रदर्शन गर्न, RecorderZ लाई अन्य एपहरूमा प्रदर्शन गर्न अनुमति चाहिन्छ। कृपया यसलाई अर्को स्क्रिनमा दिनुहोस्।</string>
     <string name="btn_grant">अनुदान</string>
     <string name="btn_cancel">रद्द गर्नुहोस्</string>
     <string name="dialog_av1_software_title">⚠ AV1 सफ्टवेयर एन्कोडिङ</string>
@@ -93,7 +93,7 @@
     <string name="lang_system_default">प्रणाली पूर्वनिर्धारित</string>
     <string name="naming_template_helper">तपाइँको सुरक्षित भिडियो शीर्षकहरू निजीकृत गर्न टेम्प्लेट बक्समा तपाइँको मनपर्ने उपसर्ग टाइप गर्नुहोस्।\nप्रत्येक फाइललाई मिति अनुसार क्रमिक रूपमा व्यवस्थित गरिएको सुनिश्चित गर्न {timestamp} प्लेसहोल्डर थप्नुहोस्।\nअमान्य वर्णहरू स्वचालित रूपमा हटाइन्छ, यदि खाली भएमा सफा टाइमस्ट्याम्पमा पूर्वनिर्धारित हुन्छ।\nmmmmat. 20260712_143000)।</string>
     <string name="onboarding_swipe_title">🎨 पुन: रंग गर्न स्वाइप गर्नुहोस्</string>
-    <string name="onboarding_swipe_description">12 भव्य विषयवस्तु एक्सेन्ट रङहरू बीच साइकल गर्न RecorderX शीर्षक क्षेत्रमा जहाँसुकै बायाँ वा दायाँ स्वाइप गर्नुहोस्!</string>
+    <string name="onboarding_swipe_description">12 भव्य विषयवस्तु एक्सेन्ट रङहरू बीच साइकल गर्न RecorderZ शीर्षक क्षेत्रमा जहाँसुकै बायाँ वा दायाँ स्वाइप गर्नुहोस्!</string>
     <string name="btn_got_it">बुझियो</string>
     <string name="camera_front">अगाडि</string>
     <string name="camera_back">पछाडि</string>
@@ -111,10 +111,10 @@
     <string name="channel_recorder_service">रेकर्डर सेवा</string>
     <string name="channel_recording_saved">रेकर्डिङ सुरक्षित गरियो</string>
     <string name="notification_saved_title">रेकर्डिङ सुरक्षित गरियो</string>
-    <string name="notification_saved_text">/Movies/RecorderX मा आफ्नो रेकर्डिङ हेर्न ट्याप गर्नुहोस्</string>
+    <string name="notification_saved_text">/Movies/RecorderZ मा आफ्नो रेकर्डिङ हेर्न ट्याप गर्नुहोस्</string>
     <string name="notification_action_delete">मेट्नुहोस्</string>
-    <string name="notification_active_title">RecorderX सक्रिय छ</string>
-    <string name="notification_paused_title">RecorderX रोकिएको छ</string>
+    <string name="notification_active_title">RecorderZ सक्रिय छ</string>
+    <string name="notification_paused_title">RecorderZ रोकिएको छ</string>
     <string name="notification_action_pause">रेकर्डिङ रोक्नुहोस्</string>
     <string name="notification_action_resume">रेकर्डिङ पुन: सुरु गर्नुहोस्</string>
     <string name="notification_action_show">देखाउनुहोस्</string>
@@ -130,14 +130,14 @@
     <string name="toast_screen_capture_denied">स्क्रिन क्याप्चर अनुमति अस्वीकार गरियो</string>
     <string name="toast_start_recorder_failed">रेकर्डर सुरु गर्न असफल भयो</string>
     <string name="toast_copied_timestamp">क्लिपबोर्डमा {timestamp} प्रतिलिपि गरियो</string>
-    <string name="toast_accessibility_permission_mic">कृपया माइक नियन्त्रण गर्न RecorderX को पहुँच अनुमति सक्षम गर्नुहोस्</string>
-    <string name="toast_camera_permission_required">कृपया RecorderX मा क्यामेरा अनुमति दिनुहोस्</string>
-    <string name="toast_accessibility_permission_screenshot">कृपया स्क्रिनसटहरू लिनको लागि RecorderX को लागि पहुँच अनुमति सक्षम गर्नुहोस्</string>
+    <string name="toast_accessibility_permission_mic">कृपया माइक नियन्त्रण गर्न RecorderZ को पहुँच अनुमति सक्षम गर्नुहोस्</string>
+    <string name="toast_camera_permission_required">कृपया RecorderZ मा क्यामेरा अनुमति दिनुहोस्</string>
+    <string name="toast_accessibility_permission_screenshot">कृपया स्क्रिनसटहरू लिनको लागि RecorderZ को लागि पहुँच अनुमति सक्षम गर्नुहोस्</string>
     <string name="toast_recording_deleted">रेकर्डिङ मेटाइयो</string>
     <string name="toast_hardware_av1_not_found">हार्डवेयर AV1 फेला परेन। सफ्टवेयर AV1 मोडमा रेकर्डिङ...</string>
     <string name="toast_codec_fallback">%1$s को सट्टा %2$s मा रेकर्डिङ, यहाँ कुनै हार्डवेयर एन्कोडर छैन।</string>
     <string name="toast_hardware_overloaded">हार्डवेयर ओभरलोड। स्वतः डाउनग्रेड गर्दै...</string>
-    <string name="toast_screenshot_saved">स्क्रिनसट Pictures/RecorderX मा सुरक्षित गरियो</string>
+    <string name="toast_screenshot_saved">स्क्रिनसट Pictures/RecorderZ मा सुरक्षित गरियो</string>
     <string name="accessibility_desc">भिडियो खिच्ने बाधा बिना स्क्रिन रेकर्डिङ सत्रहरूमा नेटिभ प्रणाली स्क्रिनसटहरू ट्रिगर गर्न मात्र प्रयोग गरिन्छ।</string>
     <string name="widget_quick_record_title">द्रुत रेकर्ड</string>
     <string name="widget_control_center_title">नियन्त्रण केन्द्र</string>

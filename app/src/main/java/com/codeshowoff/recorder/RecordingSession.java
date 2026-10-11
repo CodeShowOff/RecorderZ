@@ -41,7 +41,7 @@ import java.util.Locale;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public class RecordingSession {
-    private static final String TAG = "RecorderX_Session";
+    private static final String TAG = "RecorderZ_Session";
     
     private final Context context;
     private final MediaProjection mediaProjection;
@@ -156,7 +156,7 @@ public class RecordingSession {
                 ContentValues values = new ContentValues();
                 values.put(MediaStore.Video.Media.DISPLAY_NAME, fileName);
                 values.put(MediaStore.Video.Media.MIME_TYPE, "video/mp4");
-                values.put(MediaStore.Video.Media.RELATIVE_PATH, Environment.DIRECTORY_MOVIES + "/RecorderX");
+                values.put(MediaStore.Video.Media.RELATIVE_PATH, Environment.DIRECTORY_MOVIES + "/RecorderZ");
 
                 outputUri = context.getContentResolver().insert(MediaStore.Video.Media.EXTERNAL_CONTENT_URI, values);
                 if (outputUri == null) throw new IOException("Failed to create MediaStore entry");
@@ -165,9 +165,9 @@ public class RecordingSession {
                 if (pfd == null) throw new IOException("Failed to open FileDescriptor");
                 muxer = new MediaMuxer(pfd.getFileDescriptor(), MediaMuxer.OutputFormat.MUXER_OUTPUT_MPEG_4);
             } else {
-                File storageDir = new File(Environment.getExternalStorageDirectory(), "RecorderX");
+                File storageDir = new File(Environment.getExternalStorageDirectory(), "RecorderZ");
                 if (!storageDir.exists() && !storageDir.mkdirs()) {
-                    storageDir = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_MOVIES), "RecorderX");
+                    storageDir = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_MOVIES), "RecorderZ");
                     storageDir.mkdirs();
                 }
                 File file = new File(storageDir, fileName);
@@ -220,7 +220,7 @@ public class RecordingSession {
             mediaProjection.registerCallback(projectionCallback, new Handler(Looper.getMainLooper()));
 
             Log.d(TAG, "Creating VirtualDisplay (" + activeWidth + "x" + activeHeight + ")...");
-            virtualDisplay = mediaProjection.createVirtualDisplay("RecorderX",
+            virtualDisplay = mediaProjection.createVirtualDisplay("RecorderZ",
                     activeWidth, activeHeight, density,
                     DisplayManager.VIRTUAL_DISPLAY_FLAG_AUTO_MIRROR,
                     inputSurface, null, null);
@@ -920,13 +920,13 @@ public class RecordingSession {
                 ContentValues values = new ContentValues();
                 values.put(MediaStore.Images.Media.DISPLAY_NAME, fileName);
                 values.put(MediaStore.Images.Media.MIME_TYPE, "image/png");
-                values.put(MediaStore.Images.Media.RELATIVE_PATH, Environment.DIRECTORY_PICTURES + "/RecorderX");
+                values.put(MediaStore.Images.Media.RELATIVE_PATH, Environment.DIRECTORY_PICTURES + "/RecorderZ");
                 
                 Uri uri = context.getContentResolver().insert(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, values);
                 if (uri == null) throw new IOException("Failed to create MediaStore entry");
                 fos = context.getContentResolver().openOutputStream(uri);
             } else {
-                File storageDir = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES), "RecorderX");
+                File storageDir = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES), "RecorderZ");
                 storageDir.mkdirs();
                 File file = new File(storageDir, fileName);
                 fos = new java.io.FileOutputStream(file);

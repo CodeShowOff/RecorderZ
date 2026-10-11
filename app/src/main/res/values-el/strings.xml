@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RecorderX</string>
+    <string name="app_name">RecorderZ</string>
     <string name="start_recording">ENARXH EGGRAFIS</string>
     <string name="stop_recording">DIAKOPI EGGRAFIS</string>
     <string name="settings_title">SYSTEM CONFIGURATION</string>
@@ -62,13 +62,13 @@
         <item>CBR</item>
     </string-array>
 
-    <string name="qs_label">RecorderX</string>
+    <string name="qs_label">RecorderZ</string>
     <string name="info_text">Saved automatically.</string>
 
     <!-- Auto-generated translations for all UI & guides -->
     <string name="title_swipe_here">ΣΑΡΩΣΤΕ ΕΔΩ</string>
     <string name="title_recorder">ΚΑΤΑΓΡΑΦΟΣ</string>
-    <string name="saved_in_path">Αποθηκεύτηκε στο: /Movies/RecorderX</string>
+    <string name="saved_in_path">Αποθηκεύτηκε στο: /Movies/RecorderZ</string>
     <string name="guide_codec_desc">H.264 (Πιο συμβατό με άλλες συσκευές αναπαραγωγής), H.265 (Υψηλή απόδοση συμπίεσης) ή AV1 (υψηλή ποιότητα επόμενης γενιάς).</string>
     <string name="guide_orientation_desc">Κλειδώστε τις αναλογίες διαστάσεων των εγγεγραμμένων βίντεο σε Αυτόματο, Κατακόρυφο (κάθετο) ή Οριζόντιο (οριζόντιο).</string>
     <string name="guide_resolution_desc">Το NATIVE καταγράφει με την ακριβή ανάλυση της οθόνης σας. Λήψη κλειδώματος 4K, 2K, FHD, HD και SD σε τυπικές διαστάσεις.</string>
@@ -82,7 +82,7 @@
     <string name="dialog_auto_orientation_button_timer">Καταλαβαίνω (%d)</string>
     <string name="dialog_auto_orientation_button">Καταλαβαίνω</string>
     <string name="dialog_overlay_permission_title">Απαιτείται άδεια επικάλυψης</string>
-    <string name="dialog_overlay_permission_message">Για να εμφανιστεί η αιωρούμενη φούσκα ελεγκτή, το RecorderX χρειάζεται άδεια για προβολή σε άλλες εφαρμογές. Παρακαλώ χορηγήστε το στην επόμενη οθόνη.</string>
+    <string name="dialog_overlay_permission_message">Για να εμφανιστεί η αιωρούμενη φούσκα ελεγκτή, το RecorderZ χρειάζεται άδεια για προβολή σε άλλες εφαρμογές. Παρακαλώ χορηγήστε το στην επόμενη οθόνη.</string>
     <string name="btn_grant">Επιχορήγηση</string>
     <string name="btn_cancel">Ακύρωση</string>
     <string name="dialog_av1_software_title">⚠ Κωδικοποίηση λογισμικού AV1</string>
@@ -96,7 +96,7 @@
 Οι μη έγκυροι χαρακτήρες αφαιρούνται αυτόματα, επιστρέφοντας σε μια καθαρή χρονική σήμανση εάν είναι κενό.
 Μορφή: yyyyMMdd_HHmmss (π.χ. 20260712_143000).</string>
     <string name="onboarding_swipe_title">🎨 Σύρετε για να επαναχρωματίσετε</string>
-    <string name="onboarding_swipe_description">Σύρετε προς τα αριστερά ή προς τα δεξιά οπουδήποτε πάνω από την περιοχή τίτλου RecorderX για να κάνετε εναλλαγή ανάμεσα σε 12 υπέροχα χρώματα έμφασης θέματος!</string>
+    <string name="onboarding_swipe_description">Σύρετε προς τα αριστερά ή προς τα δεξιά οπουδήποτε πάνω από την περιοχή τίτλου RecorderZ για να κάνετε εναλλαγή ανάμεσα σε 12 υπέροχα χρώματα έμφασης θέματος!</string>
     <string name="btn_got_it">Κατάλαβα</string>
     <string name="camera_front">Εμπρός</string>
     <string name="camera_back">Πίσω</string>
@@ -114,10 +114,10 @@
     <string name="channel_recorder_service">Υπηρεσία εγγραφής</string>
     <string name="channel_recording_saved">Η εγγραφή αποθηκεύτηκε</string>
     <string name="notification_saved_title">Η εγγραφή αποθηκεύτηκε</string>
-    <string name="notification_saved_text">Πατήστε για να δείτε την εγγραφή σας στο /Movies/RecorderX</string>
+    <string name="notification_saved_text">Πατήστε για να δείτε την εγγραφή σας στο /Movies/RecorderZ</string>
     <string name="notification_action_delete">Διαγραφή</string>
-    <string name="notification_active_title">Το RecorderX είναι ενεργό</string>
-    <string name="notification_paused_title">Το RecorderX έχει τεθεί σε παύση</string>
+    <string name="notification_active_title">Το RecorderZ είναι ενεργό</string>
+    <string name="notification_paused_title">Το RecorderZ έχει τεθεί σε παύση</string>
     <string name="notification_action_pause">Παύση εγγραφής</string>
     <string name="notification_action_resume">Συνέχιση εγγραφής</string>
     <string name="notification_action_show">Εμφάνιση</string>
@@ -133,14 +133,14 @@
     <string name="toast_screen_capture_denied">Η άδεια λήψης οθόνης απορρίφθηκε</string>
     <string name="toast_start_recorder_failed">Αποτυχία εκκίνησης εγγραφής</string>
     <string name="toast_copied_timestamp">Αντιγράφηκε το {timestamp} στο πρόχειρο</string>
-    <string name="toast_accessibility_permission_mic">Ενεργοποιήστε την άδεια προσβασιμότητας για το RecorderX για τον έλεγχο του μικροφώνου</string>
-    <string name="toast_camera_permission_required">Παρακαλούμε παραχωρήστε άδεια κάμερας στο RecorderX</string>
-    <string name="toast_accessibility_permission_screenshot">Ενεργοποιήστε την άδεια Προσβασιμότητας για το RecorderX για λήψη στιγμιότυπων οθόνης</string>
+    <string name="toast_accessibility_permission_mic">Ενεργοποιήστε την άδεια προσβασιμότητας για το RecorderZ για τον έλεγχο του μικροφώνου</string>
+    <string name="toast_camera_permission_required">Παρακαλούμε παραχωρήστε άδεια κάμερας στο RecorderZ</string>
+    <string name="toast_accessibility_permission_screenshot">Ενεργοποιήστε την άδεια Προσβασιμότητας για το RecorderZ για λήψη στιγμιότυπων οθόνης</string>
     <string name="toast_recording_deleted">Η εγγραφή διαγράφηκε</string>
     <string name="toast_hardware_av1_not_found">Το υλικό AV1 δεν βρέθηκε. Εγγραφή σε λειτουργία Software AV1…</string>
     <string name="toast_codec_fallback">Το %1$s δεν έχει κωδικοποιητή υλικού εδώ, αλλά η εγγραφή γίνεται σε %2$s.</string>
     <string name="toast_hardware_overloaded">Υπερφόρτωση υλικού. Αυτόματη υποβάθμιση…</string>
-    <string name="toast_screenshot_saved">Το στιγμιότυπο οθόνης αποθηκεύτηκε στο Pictures/RecorderX</string>
+    <string name="toast_screenshot_saved">Το στιγμιότυπο οθόνης αποθηκεύτηκε στο Pictures/RecorderZ</string>
     <string name="accessibility_desc">Χρησιμοποιείται αποκλειστικά για την ενεργοποίηση εγγενών στιγμιότυπων οθόνης συστήματος κατά τη διάρκεια συνεδριών εγγραφής οθόνης χωρίς διακοπή της λήψης βίντεο.</string>
     <string name="widget_quick_record_title">Γρήγορη εγγραφή</string>
     <string name="widget_control_center_title">Κέντρο ελέγχου</string>
