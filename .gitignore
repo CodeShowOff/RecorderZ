@@ -28,3 +28,6 @@ ijMapper_local.gradle
 .DS_Store
 Thumbs.db
 
+# Docs
+LIGHTWEIGHT_GITLAB_WORKFLOW.md
+FDROID_MERGE_REQUEST.md

@@ -1,5 +1,6 @@
-﻿Categories:
+Categories:
   - Multimedia
+  - Recorder
   - System
 License: Apache-2.0
 AuthorName: CodeShowOff
@@ -9,25 +10,6 @@ IssueTracker: https://github.com/CodeShowOff/RecorderZ/issues
 Changelog: https://github.com/CodeShowOff/RecorderZ/releases
 
 AutoName: RecorderZ
-Summary: High-performance, privacy-focused screen recorder
-Description: |-
-  RecorderZ is a high-performance, privacy-focused screen recorder for Android.
-
-  Key Features:
-  - Record up to 4K (UHD) and 2K (QHD) for crystal clear video.
-  - High-speed recording at 60fps, 90fps, and 120fps.
-  - Custom bitrates up to 18 Mbps for practical high-frame-rate performance.
-  - Native 80 Global Languages support with a searchable language selection modal.
-  - Hardware-level Display Keep-Awake engine to prevent screen dimming during recording.
-  - Background RAM optimization with automatic service cleanup when removed from Recents.
-  - Modern AMOLED Black base theme with a Title Bar Swipe Gesture Theme Customizer to cycle through 12 dynamic accent colors.
-  - Floating control overlay panel for convenient recording management.
-  - Real-time screen drawing brush tool for annotations.
-  - Compact MediaStyle notification controls tailored for Android 14.
-  - Automatic file naming with custom templates.
-  - Self-healing audio system that recovers if the system blocks capture.
-  - Post-recording notifications with live video thumbnails.
-  - Works entirely offline with no internet access or ads.
 
 RepoType: git
 Repo: https://github.com/CodeShowOff/RecorderZ.git
@@ -35,12 +17,14 @@ Repo: https://github.com/CodeShowOff/RecorderZ.git
 Builds:
   - versionName: 1.0.0
     versionCode: 1
-    commit: v1.0.0
+    commit: 5ee7e88ddf90559b332064f1357ae19d060b7026
+    subdir: app
     gradle:
       - yes
-    output: app/build/outputs/apk/release/app-release.apk
+
+AllowedAPKSigningKeys: af474c13f4338bbc7c961b13a76b2e45e9b594125b21b90a9eb9deb91893ca8f
 
 AutoUpdateMode: Version
-UpdateCheckMode: Tags
+UpdateCheckMode: Tags ^v[0-9.]+$
 CurrentVersion: 1.0.0
 CurrentVersionCode: 1
